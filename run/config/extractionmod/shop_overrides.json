@@ -1,0 +1,9 @@
+{
+  "left_behind_edition.enabled": "1",
+  "prepare_for_extraction_edition.enabled": "1",
+  "edge_of_darkness_edition.enabled": "1",
+  "founders_patch.enabled": "0",
+  "ammo_support_pack.enabled": "0",
+  "med_cache.enabled": "0",
+  "starter_raid_pack.enabled": "0"
+}

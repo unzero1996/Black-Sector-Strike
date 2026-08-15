@@ -1,0 +1,7 @@
+[autoJoin]
+	#Skip the main menu and connect to the configured server on launch.
+	enabled = true
+	#Server address in host:port format.
+	serverAddress = "127.0.0.1"
+	#Display name shown in the server list entry.
+	serverName = "Black Sector Strike"

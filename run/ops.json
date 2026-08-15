@@ -1,0 +1,26 @@
+[
+  {
+    "uuid": "e27b8bb3-fcd1-39bd-900c-053113da6298",
+    "name": "aun253",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "91daf328-d2df-393c-8f92-eccfadb3edfd",
+    "name": "Player7",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "380df991-f603-344c-a090-369bad2a924a",
+    "name": "Dev",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "0277434b-7570-30eb-bcc8-b803858c513f",
+    "name": "Aun",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]

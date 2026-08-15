@@ -1,0 +1,6925 @@
+{
+  "added": [
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:lucky_scav_junk_box",
+      "price": 619787,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "peacekeeper",
+      "side": "BUY",
+      "itemId": "extractionmod:5_45x39_bs",
+      "price": 2,
+      "minLevel": 1,
+      "currency": "USD"
+    },
+    {
+      "traderId": "peacekeeper",
+      "side": "BUY",
+      "itemId": "extractionmod:5_45x39_bt",
+      "price": 2,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "jaeger",
+      "side": "BUY",
+      "itemId": "extractionmod:goldenstar_balm",
+      "price": 11093,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "peacekeeper",
+      "side": "SELL",
+      "itemId": "extractionmod:mp5",
+      "price": 352,
+      "minLevel": 1,
+      "currency": "USD"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:fierce_blow_sledgehammer",
+      "price": 67320,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "jaeger",
+      "side": "BUY",
+      "itemId": "extractionmod:squash_spread",
+      "price": 7760,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "peacekeeper",
+      "side": "BUY",
+      "itemId": "extractionmod:5_45x39_bp",
+      "price": 2,
+      "minLevel": 1,
+      "currency": "USD"
+    },
+    {
+      "traderId": "jaeger",
+      "side": "BUY",
+      "itemId": "extractionmod:pile_of_meds",
+      "price": 3120,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:energy_saving_lamp",
+      "price": 5519,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "mechanic",
+      "side": "BUY",
+      "itemId": "extractionmod:m9a3",
+      "price": 5703,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:tar_cola",
+      "price": 4069,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "peacekeeper",
+      "side": "BUY",
+      "itemId": "extractionmod:afglass",
+      "price": 6,
+      "minLevel": 1,
+      "currency": "USD"
+    },
+    {
+      "traderId": "prapor",
+      "side": "BUY",
+      "itemId": "extractionmod:5_45x39_fmj",
+      "price": 39,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "peacekeeper",
+      "side": "BUY",
+      "itemId": "extractionmod:5_45x39_t",
+      "price": 1,
+      "minLevel": 1,
+      "currency": "USD"
+    },
+    {
+      "traderId": "skier",
+      "side": "BUY",
+      "itemId": "extractionmod:christmas_tree_ornament_red",
+      "price": 5850,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "peacekeeper",
+      "side": "BUY",
+      "itemId": "extractionmod:bntimodule3m",
+      "price": 64,
+      "minLevel": 1,
+      "currency": "USD"
+    },
+    {
+      "traderId": "ragman",
+      "side": "SELL",
+      "itemId": "extractionmod:paca",
+      "price": 36506,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "mechanic",
+      "side": "BUY",
+      "itemId": "extractionmod:bntimodule3m",
+      "price": 10726,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "peacekeeper",
+      "side": "BUY",
+      "itemId": "extractionmod:5_45x39_fmj",
+      "price": 1,
+      "minLevel": 1,
+      "currency": "USD"
+    },
+    {
+      "traderId": "ragman",
+      "side": "SELL",
+      "itemId": "extractionmod:mbss_ucp",
+      "price": 25465,
+      "minLevel": 2,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "peacekeeper",
+      "side": "BUY",
+      "itemId": "extractionmod:capacitors",
+      "price": 7,
+      "minLevel": 1,
+      "currency": "USD"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:ice_green_tea",
+      "price": 1238,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "prapor",
+      "side": "BUY",
+      "itemId": "extractionmod:shustrilo_sealing_foam",
+      "price": 14200,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "skier",
+      "side": "BUY",
+      "itemId": "extractionmod:military_gyrotachometer",
+      "price": 24180,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "prapor",
+      "side": "SELL",
+      "itemId": "extractionmod:7_62x39_ps",
+      "price": 327,
+      "minLevel": 3,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "ragman",
+      "side": "BUY",
+      "itemId": "extractionmod:lshz_lightweight_helmet",
+      "price": 16072,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "prapor",
+      "side": "BUY",
+      "itemId": "extractionmod:akm",
+      "price": 15822,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "prapor",
+      "side": "SELL",
+      "itemId": "extractionmod:7_62x39_pp",
+      "price": 1256,
+      "minLevel": 4,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:pressure_gauge",
+      "price": 31212,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:aseptic_bandage",
+      "price": 594,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:bronze_lion_figurine",
+      "price": 83096,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "skier",
+      "side": "BUY",
+      "itemId": "extractionmod:phased_array_element",
+      "price": 64740,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "peacekeeper",
+      "side": "BUY",
+      "itemId": "extractionmod:vpx_flash_storage_module",
+      "price": 453,
+      "minLevel": 1,
+      "currency": "USD"
+    },
+    {
+      "traderId": "prapor",
+      "side": "BUY",
+      "itemId": "extractionmod:12x70_lead_slug",
+      "price": 22,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:magnet",
+      "price": 6483,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "jaeger",
+      "side": "BUY",
+      "itemId": "extractionmod:canned_herring",
+      "price": 8135,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "mechanic",
+      "side": "BUY",
+      "itemId": "extractionmod:military_cofdm_transmitter",
+      "price": 65475,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "mechanic",
+      "side": "BUY",
+      "itemId": "extractionmod:augmentin",
+      "price": 6873,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:ratchet_wrench",
+      "price": 63240,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:wilston_cigarettes",
+      "price": 4071,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "peacekeeper",
+      "side": "BUY",
+      "itemId": "extractionmod:golden_rooster_figurine",
+      "price": 269,
+      "minLevel": 1,
+      "currency": "USD"
+    },
+    {
+      "traderId": "jaeger",
+      "side": "BUY",
+      "itemId": "extractionmod:mp5",
+      "price": 6037,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:salewa",
+      "price": 7695,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "jaeger",
+      "side": "BUY",
+      "itemId": "extractionmod:hunting_matches",
+      "price": 1824,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "peacekeeper",
+      "side": "BUY",
+      "itemId": "extractionmod:hgrid",
+      "price": 583,
+      "minLevel": 1,
+      "currency": "USD"
+    },
+    {
+      "traderId": "prapor",
+      "side": "SELL",
+      "itemId": "extractionmod:9x19_pst_gzh",
+      "price": 89,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "prapor",
+      "side": "BUY",
+      "itemId": "extractionmod:cms",
+      "price": 11520,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "peacekeeper",
+      "side": "BUY",
+      "itemId": "extractionmod:augmentin",
+      "price": 173,
+      "minLevel": 1,
+      "currency": "USD"
+    },
+    {
+      "traderId": "prapor",
+      "side": "BUY",
+      "itemId": "extractionmod:forty_two_signature_blend_english_tea",
+      "price": 11101,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "prapor",
+      "side": "BUY",
+      "itemId": "extractionmod:goldenstar_balm",
+      "price": 9244,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "SELL",
+      "itemId": "extractionmod:army_crackers",
+      "price": 18364,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "jaeger",
+      "side": "BUY",
+      "itemId": "extractionmod:silicone_tube",
+      "price": 9072,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "jaeger",
+      "side": "BUY",
+      "itemId": "extractionmod:military_battery",
+      "price": 158400,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "prapor",
+      "side": "BUY",
+      "itemId": "extractionmod:uzrgm_grenade_fuze",
+      "price": 3240,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "prapor",
+      "side": "BUY",
+      "itemId": "extractionmod:7_62x39_t45m",
+      "price": 80,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "jaeger",
+      "side": "BUY",
+      "itemId": "extractionmod:metal_spare_parts",
+      "price": 2400,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "prapor",
+      "side": "BUY",
+      "itemId": "extractionmod:pack_of_screws",
+      "price": 1256,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "prapor",
+      "side": "BUY",
+      "itemId": "extractionmod:fleece_fabric",
+      "price": 1600,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "skier",
+      "side": "BUY",
+      "itemId": "extractionmod:magnet",
+      "price": 4958,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "skier",
+      "side": "BUY",
+      "itemId": "extractionmod:ak74mag30",
+      "price": 792,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "peacekeeper",
+      "side": "BUY",
+      "itemId": "extractionmod:7_62x39_bp",
+      "price": 3,
+      "minLevel": 1,
+      "currency": "USD"
+    },
+    {
+      "traderId": "peacekeeper",
+      "side": "BUY",
+      "itemId": "extractionmod:bearcapblk",
+      "price": 5,
+      "minLevel": 1,
+      "currency": "USD"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:tourniquet",
+      "price": 783,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "mechanic",
+      "side": "BUY",
+      "itemId": "extractionmod:metal_cutting_scissors",
+      "price": 10035,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "peacekeeper",
+      "side": "BUY",
+      "itemId": "extractionmod:military_cable",
+      "price": 123,
+      "minLevel": 1,
+      "currency": "USD"
+    },
+    {
+      "traderId": "prapor",
+      "side": "BUY",
+      "itemId": "extractionmod:wrench",
+      "price": 1417,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:chainlet",
+      "price": 3689,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "jaeger",
+      "side": "BUY",
+      "itemId": "extractionmod:max_energy",
+      "price": 4288,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "peacekeeper",
+      "side": "BUY",
+      "itemId": "extractionmod:spark_plug",
+      "price": 33,
+      "minLevel": 1,
+      "currency": "USD"
+    },
+    {
+      "traderId": "prapor",
+      "side": "BUY",
+      "itemId": "extractionmod:ai2",
+      "price": 1664,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "prapor",
+      "side": "SELL",
+      "itemId": "extractionmod:7_62x39_t45m",
+      "price": 272,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:car_first_aid_kit",
+      "price": 3769,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:insulating_tape",
+      "price": 1029,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "prapor",
+      "side": "BUY",
+      "itemId": "extractionmod:ratchet_wrench",
+      "price": 49600,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "peacekeeper",
+      "side": "BUY",
+      "itemId": "extractionmod:gps_signal_amplifier_unit",
+      "price": 357,
+      "minLevel": 1,
+      "currency": "USD"
+    },
+    {
+      "traderId": "mechanic",
+      "side": "BUY",
+      "itemId": "extractionmod:toolset",
+      "price": 13950,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "prapor",
+      "side": "BUY",
+      "itemId": "extractionmod:corrugated_hose",
+      "price": 3809,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "prapor",
+      "side": "BUY",
+      "itemId": "extractionmod:bntimodule3m",
+      "price": 8581,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "mechanic",
+      "side": "BUY",
+      "itemId": "extractionmod:5_45x39_t",
+      "price": 40,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:phased_array_element",
+      "price": 84660,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "ragman",
+      "side": "BUY",
+      "itemId": "extractionmod:useccapcoyote",
+      "price": 821,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "prapor",
+      "side": "SELL",
+      "itemId": "extractionmod:5_45x39_fmj",
+      "price": 135,
+      "minLevel": 2,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:survl_survivor_lighter",
+      "price": 8160,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "prapor",
+      "side": "BUY",
+      "itemId": "extractionmod:pressure_gauge",
+      "price": 24480,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "skier",
+      "side": "BUY",
+      "itemId": "extractionmod:mosin",
+      "price": 10065,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "SELL",
+      "itemId": "extractionmod:augmentin",
+      "price": 45147,
+      "minLevel": 4,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:ofz_shell",
+      "price": 28560,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "skier",
+      "side": "BUY",
+      "itemId": "extractionmod:5_45x39_ppbs",
+      "price": 483,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "skier",
+      "side": "BUY",
+      "itemId": "extractionmod:electric_motor",
+      "price": 16770,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "skier",
+      "side": "BUY",
+      "itemId": "extractionmod:7_62x39_t45m",
+      "price": 78,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "peacekeeper",
+      "side": "BUY",
+      "itemId": "extractionmod:antique_teapot",
+      "price": 138,
+      "minLevel": 1,
+      "currency": "USD"
+    },
+    {
+      "traderId": "mechanic",
+      "side": "BUY",
+      "itemId": "extractionmod:ratchet_wrench",
+      "price": 55800,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:pack_of_screws",
+      "price": 1601,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "peacekeeper",
+      "side": "BUY",
+      "itemId": "extractionmod:msa_ach_tc_2001_mich_helmet",
+      "price": 154,
+      "minLevel": 1,
+      "currency": "USD"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:factory_plan_map",
+      "price": 8222,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "jaeger",
+      "side": "BUY",
+      "itemId": "extractionmod:xenomorph_sealing_foam",
+      "price": 16213,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "jaeger",
+      "side": "SELL",
+      "itemId": "extractionmod:intelligence_folder",
+      "price": 30431,
+      "minLevel": 2,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "peacekeeper",
+      "side": "SELL",
+      "itemId": "extractionmod:msa_ach_tc_2001_mich_helmet",
+      "price": 584,
+      "minLevel": 2,
+      "currency": "USD"
+    },
+    {
+      "traderId": "therapist",
+      "side": "SELL",
+      "itemId": "extractionmod:aseptic_bandage",
+      "price": 2187,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:tarker_dried_meat",
+      "price": 10012,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "prapor",
+      "side": "BUY",
+      "itemId": "extractionmod:5_45x39_ppbs",
+      "price": 496,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "peacekeeper",
+      "side": "BUY",
+      "itemId": "extractionmod:secure_magnetic_tape_cassette",
+      "price": 431,
+      "minLevel": 1,
+      "currency": "USD"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:ololo_multivitamins",
+      "price": 12795,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "mechanic",
+      "side": "BUY",
+      "itemId": "extractionmod:akm",
+      "price": 17797,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "mechanic",
+      "side": "BUY",
+      "itemId": "extractionmod:working_lcd",
+      "price": 17100,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "skier",
+      "side": "BUY",
+      "itemId": "extractionmod:sks",
+      "price": 7532,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "prapor",
+      "side": "BUY",
+      "itemId": "extractionmod:set_of_files_master",
+      "price": 14000,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "jaeger",
+      "side": "BUY",
+      "itemId": "extractionmod:apple_juice",
+      "price": 1642,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "peacekeeper",
+      "side": "BUY",
+      "itemId": "extractionmod:5_56x45_m855",
+      "price": 1,
+      "minLevel": 1,
+      "currency": "USD"
+    },
+    {
+      "traderId": "skier",
+      "side": "BUY",
+      "itemId": "extractionmod:horse_figurine",
+      "price": 4464,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "peacekeeper",
+      "side": "BUY",
+      "itemId": "extractionmod:electric_motor",
+      "price": 128,
+      "minLevel": 1,
+      "currency": "USD"
+    },
+    {
+      "traderId": "ragman",
+      "side": "BUY",
+      "itemId": "extractionmod:poyas_rig",
+      "price": 20662,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "prapor",
+      "side": "BUY",
+      "itemId": "extractionmod:dr_lupos_coffee_beans",
+      "price": 20800,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "prapor",
+      "side": "BUY",
+      "itemId": "extractionmod:hemostat",
+      "price": 1024,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "skier",
+      "side": "BUY",
+      "itemId": "extractionmod:zsh_1_2m_helmet_olive_drab",
+      "price": 19082,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "jaeger",
+      "side": "SELL",
+      "itemId": "extractionmod:surv12",
+      "price": 94320,
+      "minLevel": 3,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "skier",
+      "side": "BUY",
+      "itemId": "extractionmod:cat_figurine",
+      "price": 24300,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:sugar",
+      "price": 10959,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:roler_submariner_watch",
+      "price": 36234,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "skier",
+      "side": "BUY",
+      "itemId": "extractionmod:5_45x39_fmj",
+      "price": 38,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "prapor",
+      "side": "BUY",
+      "itemId": "extractionmod:awl",
+      "price": 6109,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "jaeger",
+      "side": "BUY",
+      "itemId": "extractionmod:ololo_multivitamins",
+      "price": 12043,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "peacekeeper",
+      "side": "BUY",
+      "itemId": "extractionmod:phase_control_relay",
+      "price": 19,
+      "minLevel": 1,
+      "currency": "USD"
+    },
+    {
+      "traderId": "peacekeeper",
+      "side": "SELL",
+      "itemId": "extractionmod:mp5mag30",
+      "price": 44,
+      "minLevel": 1,
+      "currency": "USD"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:medical_bloodset",
+      "price": 4980,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "skier",
+      "side": "BUY",
+      "itemId": "extractionmod:bundle_of_wires",
+      "price": 2886,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "peacekeeper",
+      "side": "BUY",
+      "itemId": "extractionmod:horse_figurine",
+      "price": 34,
+      "minLevel": 1,
+      "currency": "USD"
+    },
+    {
+      "traderId": "jaeger",
+      "side": "BUY",
+      "itemId": "extractionmod:survl_survivor_lighter",
+      "price": 7680,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:intelligence_folder",
+      "price": 9872,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "mechanic",
+      "side": "BUY",
+      "itemId": "extractionmod:printed_circuit_board",
+      "price": 5737,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "prapor",
+      "side": "BUY",
+      "itemId": "extractionmod:f1_grenade",
+      "price": 2240,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "peacekeeper",
+      "side": "BUY",
+      "itemId": "extractionmod:electric_drill",
+      "price": 98,
+      "minLevel": 1,
+      "currency": "USD"
+    },
+    {
+      "traderId": "prapor",
+      "side": "BUY",
+      "itemId": "extractionmod:malboro_cigarettes",
+      "price": 884,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "peacekeeper",
+      "side": "BUY",
+      "itemId": "extractionmod:paca",
+      "price": 78,
+      "minLevel": 1,
+      "currency": "USD"
+    },
+    {
+      "traderId": "jaeger",
+      "side": "BUY",
+      "itemId": "extractionmod:canned_humpback_salmon",
+      "price": 4731,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "jaeger",
+      "side": "BUY",
+      "itemId": "extractionmod:condensed_milk",
+      "price": 11972,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "mechanic",
+      "side": "BUY",
+      "itemId": "extractionmod:5_56x45_m855",
+      "price": 81,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:bear_buddy_plush_toy",
+      "price": 44217,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:canned_green_peas",
+      "price": 3325,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "jaeger",
+      "side": "BUY",
+      "itemId": "extractionmod:commando",
+      "price": 13736,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "skier",
+      "side": "BUY",
+      "itemId": "extractionmod:ripstop_fabric",
+      "price": 2262,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:poxeram_cold_welding",
+      "price": 9894,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "prapor",
+      "side": "BUY",
+      "itemId": "extractionmod:ak74",
+      "price": 12603,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "skier",
+      "side": "BUY",
+      "itemId": "extractionmod:9x19_pst_gzh",
+      "price": 24,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "peacekeeper",
+      "side": "BUY",
+      "itemId": "extractionmod:mfun",
+      "price": 78,
+      "minLevel": 1,
+      "currency": "USD"
+    },
+    {
+      "traderId": "prapor",
+      "side": "BUY",
+      "itemId": "extractionmod:silicone_tube",
+      "price": 7560,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "peacekeeper",
+      "side": "BUY",
+      "itemId": "extractionmod:7_62x54r_lps",
+      "price": 1,
+      "minLevel": 1,
+      "currency": "USD"
+    },
+    {
+      "traderId": "therapist",
+      "side": "SELL",
+      "itemId": "extractionmod:tourniquet",
+      "price": 4271,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "ragman",
+      "side": "BUY",
+      "itemId": "extractionmod:6b23_1",
+      "price": 99399,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "peacekeeper",
+      "side": "BUY",
+      "itemId": "extractionmod:sks",
+      "price": 57,
+      "minLevel": 1,
+      "currency": "USD"
+    },
+    {
+      "traderId": "therapist",
+      "side": "SELL",
+      "itemId": "extractionmod:car_first_aid_kit",
+      "price": 11817,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "jaeger",
+      "side": "BUY",
+      "itemId": "extractionmod:intelligence_folder",
+      "price": 9291,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "skier",
+      "side": "BUY",
+      "itemId": "extractionmod:power_cord",
+      "price": 4922,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "skier",
+      "side": "BUY",
+      "itemId": "extractionmod:bear_buddy_plush_toy",
+      "price": 33813,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "skier",
+      "side": "BUY",
+      "itemId": "extractionmod:afglass",
+      "price": 850,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "skier",
+      "side": "BUY",
+      "itemId": "extractionmod:f1_grenade",
+      "price": 2184,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:salty_dog_sausage",
+      "price": 10200,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "mechanic",
+      "side": "BUY",
+      "itemId": "extractionmod:set_of_files_master",
+      "price": 15750,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "peacekeeper",
+      "side": "BUY",
+      "itemId": "extractionmod:chainlet",
+      "price": 22,
+      "minLevel": 1,
+      "currency": "USD"
+    },
+    {
+      "traderId": "prapor",
+      "side": "BUY",
+      "itemId": "extractionmod:pack_of_nails",
+      "price": 1642,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "jaeger",
+      "side": "SELL",
+      "itemId": "extractionmod:12x70_lead_slug",
+      "price": 74,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "jaeger",
+      "side": "BUY",
+      "itemId": "extractionmod:mosin",
+      "price": 10769,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "mechanic",
+      "side": "BUY",
+      "itemId": "extractionmod:7_62x39_t45m",
+      "price": 90,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:radiator_helix",
+      "price": 7395,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:pc_cpu",
+      "price": 7096,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "mechanic",
+      "side": "BUY",
+      "itemId": "extractionmod:fierce_blow_sledgehammer",
+      "price": 59400,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "mechanic",
+      "side": "SELL",
+      "itemId": "extractionmod:leatherman_multitool",
+      "price": 14594,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "skier",
+      "side": "BUY",
+      "itemId": "extractionmod:electric_drill",
+      "price": 12847,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "jaeger",
+      "side": "BUY",
+      "itemId": "extractionmod:disposable_syringe",
+      "price": 4099,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:awl",
+      "price": 7789,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:hand_drill",
+      "price": 30600,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "mechanic",
+      "side": "BUY",
+      "itemId": "extractionmod:phase_control_relay",
+      "price": 2912,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:xenomorph_sealing_foam",
+      "price": 17226,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "skier",
+      "side": "BUY",
+      "itemId": "extractionmod:bronze_lion_figurine",
+      "price": 63544,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "prapor",
+      "side": "BUY",
+      "itemId": "extractionmod:majaica_coffee_beans",
+      "price": 7638,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "prapor",
+      "side": "BUY",
+      "itemId": "extractionmod:arseniy_buckwheat",
+      "price": 8920,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:pineapple_juice",
+      "price": 1080,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "skier",
+      "side": "BUY",
+      "itemId": "extractionmod:thunderbolt",
+      "price": 9812,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:cordura_polyamide_fabric",
+      "price": 6732,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "jaeger",
+      "side": "BUY",
+      "itemId": "extractionmod:ophthalmoscope",
+      "price": 40757,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "prapor",
+      "side": "BUY",
+      "itemId": "extractionmod:kektape_duct_tape",
+      "price": 9600,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "jaeger",
+      "side": "BUY",
+      "itemId": "extractionmod:m9a3",
+      "price": 796,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "peacekeeper",
+      "side": "BUY",
+      "itemId": "extractionmod:6b23_1",
+      "price": 591,
+      "minLevel": 1,
+      "currency": "USD"
+    },
+    {
+      "traderId": "jaeger",
+      "side": "BUY",
+      "itemId": "extractionmod:medical_tools",
+      "price": 3600,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "mechanic",
+      "side": "BUY",
+      "itemId": "extractionmod:hand_drill",
+      "price": 27000,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:set_of_files_master",
+      "price": 17850,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "peacekeeper",
+      "side": "BUY",
+      "itemId": "extractionmod:mp133",
+      "price": 68,
+      "minLevel": 1,
+      "currency": "USD"
+    },
+    {
+      "traderId": "skier",
+      "side": "BUY",
+      "itemId": "extractionmod:aks_74u",
+      "price": 67,
+      "minLevel": 1,
+      "currency": "USD"
+    },
+    {
+      "traderId": "jaeger",
+      "side": "BUY",
+      "itemId": "extractionmod:greenbat_battery",
+      "price": 12480,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:slickers_bar",
+      "price": 3195,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "skier",
+      "side": "BUY",
+      "itemId": "extractionmod:forty_two_signature_blend_english_tea",
+      "price": 10824,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "mechanic",
+      "side": "BUY",
+      "itemId": "extractionmod:radiator_helix",
+      "price": 6525,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "skier",
+      "side": "BUY",
+      "itemId": "extractionmod:kolpak_1s_riot_helmet",
+      "price": 3119,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "skier",
+      "side": "SELL",
+      "itemId": "extractionmod:12x70_lead_slug",
+      "price": 81,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:screw_nuts",
+      "price": 4437,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "peacekeeper",
+      "side": "BUY",
+      "itemId": "extractionmod:msa_ach_tc_2002_mich_helmet",
+      "price": 145,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:water_filter",
+      "price": 12495,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "SELL",
+      "itemId": "extractionmod:salewa",
+      "price": 37126,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "prapor",
+      "side": "BUY",
+      "itemId": "extractionmod:hgrid",
+      "price": 10398,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "prapor",
+      "side": "BUY",
+      "itemId": "extractionmod:7_62x39_us",
+      "price": 64,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "jaeger",
+      "side": "BUY",
+      "itemId": "extractionmod:corrugated_hose",
+      "price": 4571,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:instant_noodles",
+      "price": 6416,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "jaeger",
+      "side": "BUY",
+      "itemId": "extractionmod:canned_beef_stew_large",
+      "price": 7868,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "prapor",
+      "side": "BUY",
+      "itemId": "extractionmod:press_pass",
+      "price": 20000,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "ragman",
+      "side": "BUY",
+      "itemId": "extractionmod:ripstop_fabric",
+      "price": 2900,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "skier",
+      "side": "BUY",
+      "itemId": "extractionmod:strike_cigarettes",
+      "price": 1216,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "ragman",
+      "side": "BUY",
+      "itemId": "extractionmod:msa_ach_tc_2001_mich_helmet",
+      "price": 26069,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "jaeger",
+      "side": "BUY",
+      "itemId": "extractionmod:ledx_skin_transilluminator",
+      "price": 465600,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "skier",
+      "side": "BUY",
+      "itemId": "extractionmod:dvd_drive",
+      "price": 3235,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "skier",
+      "side": "BUY",
+      "itemId": "extractionmod:lshz_lightweight_helmet",
+      "price": 12536,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "jaeger",
+      "side": "BUY",
+      "itemId": "extractionmod:pack_of_milk",
+      "price": 7081,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "mechanic",
+      "side": "BUY",
+      "itemId": "extractionmod:untar_helmet",
+      "price": 14166,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:military_gyrotachometer",
+      "price": 31620,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "mechanic",
+      "side": "BUY",
+      "itemId": "extractionmod:5_45x39_ppbs",
+      "price": 558,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "skier",
+      "side": "BUY",
+      "itemId": "extractionmod:ghost_balaclava",
+      "price": 2647,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "peacekeeper",
+      "side": "BUY",
+      "itemId": "extractionmod:magnet",
+      "price": 38,
+      "minLevel": 1,
+      "currency": "USD"
+    },
+    {
+      "traderId": "peacekeeper",
+      "side": "BUY",
+      "itemId": "extractionmod:5_45x39_prs",
+      "price": 1,
+      "minLevel": 1,
+      "currency": "USD"
+    },
+    {
+      "traderId": "ragman",
+      "side": "BUY",
+      "itemId": "extractionmod:6sh118",
+      "price": 72000,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "mechanic",
+      "side": "BUY",
+      "itemId": "extractionmod:power_cord",
+      "price": 5680,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:fierce_hatchling_moonshine",
+      "price": 102000,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "peacekeeper",
+      "side": "BUY",
+      "itemId": "extractionmod:5_45x39_sp",
+      "price": 1,
+      "minLevel": 1,
+      "currency": "USD"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:max_energy",
+      "price": 4556,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:antique_teapot",
+      "price": 23919,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:fireklean_gun_lube",
+      "price": 18578,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "peacekeeper",
+      "side": "BUY",
+      "itemId": "extractionmod:mp5mag30",
+      "price": 12,
+      "minLevel": 1,
+      "currency": "USD"
+    },
+    {
+      "traderId": "prapor",
+      "side": "BUY",
+      "itemId": "extractionmod:apollo_soyuz_cigarettes",
+      "price": 1000,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "mechanic",
+      "side": "BUY",
+      "itemId": "extractionmod:ak74",
+      "price": 14178,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "skier",
+      "side": "BUY",
+      "itemId": "extractionmod:comtac2",
+      "price": 14839,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:majaica_coffee_beans",
+      "price": 7638,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "peacekeeper",
+      "side": "BUY",
+      "itemId": "extractionmod:cpu_fan",
+      "price": 14,
+      "minLevel": 1,
+      "currency": "USD"
+    },
+    {
+      "traderId": "peacekeeper",
+      "side": "BUY",
+      "itemId": "extractionmod:7_62x39_fmj",
+      "price": 1,
+      "minLevel": 1,
+      "currency": "USD"
+    },
+    {
+      "traderId": "jaeger",
+      "side": "BUY",
+      "itemId": "extractionmod:aluminum_splint",
+      "price": 1139,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "skier",
+      "side": "BUY",
+      "itemId": "extractionmod:light_bulb",
+      "price": 3705,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "SELL",
+      "itemId": "extractionmod:analgin",
+      "price": 8557,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "peacekeeper",
+      "side": "BUY",
+      "itemId": "extractionmod:5_45x39_ps",
+      "price": 1,
+      "minLevel": 1,
+      "currency": "USD"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:dvd_drive",
+      "price": 4230,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "prapor",
+      "side": "BUY",
+      "itemId": "extractionmod:7_62x39_sp",
+      "price": 40,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "mechanic",
+      "side": "BUY",
+      "itemId": "extractionmod:military_cable",
+      "price": 18540,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "jaeger",
+      "side": "SELL",
+      "itemId": "extractionmod:5_45x39_hp",
+      "price": 66,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:weapon_parts",
+      "price": 7262,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "peacekeeper",
+      "side": "BUY",
+      "itemId": "extractionmod:bundle_of_wires",
+      "price": 22,
+      "minLevel": 1,
+      "currency": "USD"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:grand_juice",
+      "price": 1740,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:fleece_fabric",
+      "price": 2040,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "skier",
+      "side": "BUY",
+      "itemId": "extractionmod:wilston_cigarettes",
+      "price": 3113,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "prapor",
+      "side": "BUY",
+      "itemId": "extractionmod:duct_tape",
+      "price": 999,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:gas_mask_air_filter",
+      "price": 28050,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "skier",
+      "side": "BUY",
+      "itemId": "extractionmod:7_62x39_us",
+      "price": 62,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "prapor",
+      "side": "BUY",
+      "itemId": "extractionmod:12x70_buckshot",
+      "price": 76,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "jaeger",
+      "side": "BUY",
+      "itemId": "extractionmod:pilgrim",
+      "price": 37919,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:cat_figurine",
+      "price": 31777,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "jaeger",
+      "side": "BUY",
+      "itemId": "extractionmod:hot_rod",
+      "price": 4433,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:light_bulb",
+      "price": 4845,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:medical_tools",
+      "price": 3825,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "mechanic",
+      "side": "BUY",
+      "itemId": "extractionmod:vpx_flash_storage_module",
+      "price": 68580,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:augmentin",
+      "price": 29580,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "jaeger",
+      "side": "BUY",
+      "itemId": "extractionmod:tp200_tnt_brick",
+      "price": 16800,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "prapor",
+      "side": "BUY",
+      "itemId": "extractionmod:9x19_m882",
+      "price": 48,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "peacekeeper",
+      "side": "BUY",
+      "itemId": "extractionmod:power_supply_unit",
+      "price": 24,
+      "minLevel": 1,
+      "currency": "USD"
+    },
+    {
+      "traderId": "peacekeeper",
+      "side": "BUY",
+      "itemId": "extractionmod:ssd_drive",
+      "price": 238,
+      "minLevel": 1,
+      "currency": "USD"
+    },
+    {
+      "traderId": "jaeger",
+      "side": "BUY",
+      "itemId": "extractionmod:pack_of_nails",
+      "price": 1970,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "skier",
+      "side": "BUY",
+      "itemId": "extractionmod:5_56x45_m855",
+      "price": 70,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:apple_juice",
+      "price": 1745,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:dr_lupos_coffee_beans",
+      "price": 26520,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "skier",
+      "side": "BUY",
+      "itemId": "extractionmod:commando",
+      "price": 11161,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "peacekeeper",
+      "side": "BUY",
+      "itemId": "extractionmod:5_45x39_pp",
+      "price": 1,
+      "minLevel": 1,
+      "currency": "USD"
+    },
+    {
+      "traderId": "skier",
+      "side": "BUY",
+      "itemId": "extractionmod:power_supply_unit",
+      "price": 3095,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "prapor",
+      "side": "SELL",
+      "itemId": "extractionmod:7_62x39_fmj",
+      "price": 191,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:printed_circuit_board",
+      "price": 8501,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "SELL",
+      "itemId": "extractionmod:calok_b",
+      "price": 16516,
+      "minLevel": 3,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "prapor",
+      "side": "SELL",
+      "itemId": "extractionmod:5_45x39_prs",
+      "price": 81,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "skier",
+      "side": "BUY",
+      "itemId": "extractionmod:7_62x54r_lps",
+      "price": 191,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:disposable_syringe",
+      "price": 4355,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:christmas_tree_ornament_red",
+      "price": 7650,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "peacekeeper",
+      "side": "BUY",
+      "itemId": "extractionmod:nixxor_lens",
+      "price": 75,
+      "minLevel": 1,
+      "currency": "USD"
+    },
+    {
+      "traderId": "prapor",
+      "side": "BUY",
+      "itemId": "extractionmod:7_62x39_pp",
+      "price": 284,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "SELL",
+      "itemId": "extractionmod:lucky_scav_junk_box",
+      "price": 1385160,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "prapor",
+      "side": "BUY",
+      "itemId": "extractionmod:7_62x39_ps",
+      "price": 96,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "jaeger",
+      "side": "BUY",
+      "itemId": "extractionmod:classic_matches",
+      "price": 969,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "skier",
+      "side": "BUY",
+      "itemId": "extractionmod:tshaped_plug",
+      "price": 967,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "prapor",
+      "side": "BUY",
+      "itemId": "extractionmod:surv12",
+      "price": 23040,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "peacekeeper",
+      "side": "BUY",
+      "itemId": "extractionmod:lshz_lightweight_helmet",
+      "price": 95,
+      "minLevel": 1,
+      "currency": "USD"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:wrench",
+      "price": 1807,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "skier",
+      "side": "BUY",
+      "itemId": "extractionmod:mp133",
+      "price": 8863,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "mechanic",
+      "side": "BUY",
+      "itemId": "extractionmod:5_56x45_shelldrop",
+      "price": 58,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "skier",
+      "side": "BUY",
+      "itemId": "extractionmod:gas_mask_air_filter",
+      "price": 21450,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "mechanic",
+      "side": "BUY",
+      "itemId": "extractionmod:spark_plug",
+      "price": 4945,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "peacekeeper",
+      "side": "BUY",
+      "itemId": "extractionmod:useccapcoyote",
+      "price": 5,
+      "minLevel": 1,
+      "currency": "USD"
+    },
+    {
+      "traderId": "jaeger",
+      "side": "BUY",
+      "itemId": "extractionmod:medical_bloodset",
+      "price": 4687,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "peacekeeper",
+      "side": "BUY",
+      "itemId": "extractionmod:military_flash_drive",
+      "price": 179,
+      "minLevel": 1,
+      "currency": "USD"
+    },
+    {
+      "traderId": "jaeger",
+      "side": "BUY",
+      "itemId": "extractionmod:berkut",
+      "price": 10598,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "mechanic",
+      "side": "BUY",
+      "itemId": "extractionmod:electric_motor",
+      "price": 19350,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "mechanic",
+      "side": "BUY",
+      "itemId": "extractionmod:5_45x39_bt",
+      "price": 243,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:aluminum_splint",
+      "price": 1210,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "mechanic",
+      "side": "BUY",
+      "itemId": "extractionmod:5_45x39_bs",
+      "price": 351,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "prapor",
+      "side": "BUY",
+      "itemId": "extractionmod:fp100_filter_absorber",
+      "price": 32800,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "ragman",
+      "side": "BUY",
+      "itemId": "extractionmod:pillbox",
+      "price": 10700,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "prapor",
+      "side": "BUY",
+      "itemId": "extractionmod:pliers_elite",
+      "price": 11600,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "prapor",
+      "side": "BUY",
+      "itemId": "extractionmod:plexiglass",
+      "price": 3463,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "mechanic",
+      "side": "BUY",
+      "itemId": "extractionmod:5_45x39_bp",
+      "price": 283,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:golden_neck_chain",
+      "price": 19470,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "jaeger",
+      "side": "BUY",
+      "itemId": "extractionmod:can_of_thermite",
+      "price": 24960,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:surv12",
+      "price": 29376,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "mechanic",
+      "side": "BUY",
+      "itemId": "extractionmod:aks_74u",
+      "price": 10173,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "peacekeeper",
+      "side": "SELL",
+      "itemId": "extractionmod:m9a3",
+      "price": 143,
+      "minLevel": 1,
+      "currency": "USD"
+    },
+    {
+      "traderId": "peacekeeper",
+      "side": "BUY",
+      "itemId": "extractionmod:5_45x39_us",
+      "price": 1,
+      "minLevel": 1,
+      "currency": "USD"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:cyclon_battery",
+      "price": 43350,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "SELL",
+      "itemId": "extractionmod:aluminum_splint",
+      "price": 25443,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:malboro_cigarettes",
+      "price": 1127,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "skier",
+      "side": "BUY",
+      "itemId": "extractionmod:antique_teapot",
+      "price": 18291,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "skier",
+      "side": "BUY",
+      "itemId": "extractionmod:golden_neck_chain",
+      "price": 14889,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "skier",
+      "side": "BUY",
+      "itemId": "extractionmod:m9a3",
+      "price": 4941,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:canned_pacific_saury",
+      "price": 4363,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "prapor",
+      "side": "BUY",
+      "itemId": "extractionmod:ofz_shell",
+      "price": 22400,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:pile_of_meds",
+      "price": 3315,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "prapor",
+      "side": "BUY",
+      "itemId": "extractionmod:ak74mag30",
+      "price": 812,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:sodium_bicarbonate",
+      "price": 3236,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:paid_anti_roach_spray",
+      "price": 3004,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:spark_plug",
+      "price": 5604,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "skier",
+      "side": "BUY",
+      "itemId": "extractionmod:working_lcd",
+      "price": 14820,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "jaeger",
+      "side": "BUY",
+      "itemId": "extractionmod:ak74",
+      "price": 886,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "mechanic",
+      "side": "BUY",
+      "itemId": "extractionmod:5_45x39_fmj",
+      "price": 44,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:advanced_current_converter",
+      "price": 153000,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "mechanic",
+      "side": "BUY",
+      "itemId": "extractionmod:12x70_lead_slug",
+      "price": 25,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "prapor",
+      "side": "SELL",
+      "itemId": "extractionmod:f1_grenade",
+      "price": 11424,
+      "minLevel": 2,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "prapor",
+      "side": "BUY",
+      "itemId": "extractionmod:aks_74u",
+      "price": 9043,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "skier",
+      "side": "BUY",
+      "itemId": "extractionmod:fleece_fabric",
+      "price": 1560,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "mechanic",
+      "side": "BUY",
+      "itemId": "extractionmod:sewing_kit",
+      "price": 17100,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "peacekeeper",
+      "side": "BUY",
+      "itemId": "extractionmod:ghost_balaclava",
+      "price": 20,
+      "minLevel": 1,
+      "currency": "USD"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:alkaline_cleaner",
+      "price": 4313,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "mechanic",
+      "side": "BUY",
+      "itemId": "extractionmod:electric_drill",
+      "price": 14824,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:can_of_thermite",
+      "price": 26520,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "skier",
+      "side": "BUY",
+      "itemId": "extractionmod:military_cofdm_transmitter",
+      "price": 56745,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "skier",
+      "side": "BUY",
+      "itemId": "extractionmod:5_45x39_bp",
+      "price": 245,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "jaeger",
+      "side": "BUY",
+      "itemId": "extractionmod:canned_pacific_saury",
+      "price": 4106,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "skier",
+      "side": "BUY",
+      "itemId": "extractionmod:useccapcoyote",
+      "price": 640,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "skier",
+      "side": "BUY",
+      "itemId": "extractionmod:water_filter",
+      "price": 9555,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "ragman",
+      "side": "BUY",
+      "itemId": "extractionmod:mbss_ucp",
+      "price": 9160,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "skier",
+      "side": "BUY",
+      "itemId": "extractionmod:5_45x39_bt",
+      "price": 210,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "skier",
+      "side": "BUY",
+      "itemId": "extractionmod:5_45x39_bs",
+      "price": 304,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "prapor",
+      "side": "SELL",
+      "itemId": "extractionmod:5_45x39_ps",
+      "price": 191,
+      "minLevel": 2,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "ragman",
+      "side": "SELL",
+      "itemId": "extractionmod:zsh_1_2m_helmet_olive_drab",
+      "price": 68012,
+      "minLevel": 2,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "skier",
+      "side": "BUY",
+      "itemId": "extractionmod:bntimodule3m",
+      "price": 8366,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "peacekeeper",
+      "side": "BUY",
+      "itemId": "extractionmod:5_45x39_hp",
+      "price": 1,
+      "minLevel": 1,
+      "currency": "USD"
+    },
+    {
+      "traderId": "skier",
+      "side": "BUY",
+      "itemId": "extractionmod:printed_circuit_board",
+      "price": 4972,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "prapor",
+      "side": "SELL",
+      "itemId": "extractionmod:aks_74u",
+      "price": 30756,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "peacekeeper",
+      "side": "BUY",
+      "itemId": "extractionmod:7_62x39_t45m",
+      "price": 1,
+      "minLevel": 1,
+      "currency": "USD"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:military_corrugated_tube",
+      "price": 10844,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:aramid_fiber_fabric",
+      "price": 4488,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "peacekeeper",
+      "side": "BUY",
+      "itemId": "extractionmod:advanced_current_converter",
+      "price": 893,
+      "minLevel": 1,
+      "currency": "USD"
+    },
+    {
+      "traderId": "mechanic",
+      "side": "BUY",
+      "itemId": "extractionmod:7_62x39_mai_ap",
+      "price": 630,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "skier",
+      "side": "BUY",
+      "itemId": "extractionmod:untar_helmet",
+      "price": 11049,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "peacekeeper",
+      "side": "BUY",
+      "itemId": "extractionmod:ak74mag30",
+      "price": 6,
+      "minLevel": 1,
+      "currency": "USD"
+    },
+    {
+      "traderId": "prapor",
+      "side": "SELL",
+      "itemId": "extractionmod:ak74",
+      "price": 44791,
+      "minLevel": 2,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:vpx_flash_storage_module",
+      "price": 77724,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "jaeger",
+      "side": "BUY",
+      "itemId": "extractionmod:tar_cola",
+      "price": 3830,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "mechanic",
+      "side": "BUY",
+      "itemId": "extractionmod:9x19_pst_gzh",
+      "price": 27,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "jaeger",
+      "side": "BUY",
+      "itemId": "extractionmod:salewa",
+      "price": 7243,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "mechanic",
+      "side": "BUY",
+      "itemId": "extractionmod:pc_cpu",
+      "price": 6261,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "skier",
+      "side": "BUY",
+      "itemId": "extractionmod:msa_ach_tc_2002_mich_helmet",
+      "price": 19207,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "jaeger",
+      "side": "BUY",
+      "itemId": "extractionmod:saline_solution",
+      "price": 4083,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "prapor",
+      "side": "BUY",
+      "itemId": "extractionmod:ripstop_fabric",
+      "price": 2320,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "mechanic",
+      "side": "BUY",
+      "itemId": "extractionmod:bundle_of_wires",
+      "price": 3330,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "ragman",
+      "side": "BUY",
+      "itemId": "extractionmod:comtac2",
+      "price": 19025,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "peacekeeper",
+      "side": "BUY",
+      "itemId": "extractionmod:damaged_hard_drive",
+      "price": 22,
+      "minLevel": 1,
+      "currency": "USD"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:dry_fuel",
+      "price": 21509,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "prapor",
+      "side": "BUY",
+      "itemId": "extractionmod:7_62x39_hp",
+      "price": 28,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "jaeger",
+      "side": "BUY",
+      "itemId": "extractionmod:poxeram_cold_welding",
+      "price": 9312,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "skier",
+      "side": "BUY",
+      "itemId": "extractionmod:uzrgm_grenade_fuze",
+      "price": 3159,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "mechanic",
+      "side": "BUY",
+      "itemId": "extractionmod:awl",
+      "price": 6873,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:sewing_kit",
+      "price": 19380,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "prapor",
+      "side": "SELL",
+      "itemId": "extractionmod:6b47_ratnik_bsh_helmet",
+      "price": 48773,
+      "minLevel": 2,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "skier",
+      "side": "BUY",
+      "itemId": "extractionmod:6b47_ratnik_bsh_helmet",
+      "price": 13986,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:analgin",
+      "price": 2325,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "skier",
+      "side": "SELL",
+      "itemId": "extractionmod:5_45x39_sp",
+      "price": 100,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "jaeger",
+      "side": "BUY",
+      "itemId": "extractionmod:mp133",
+      "price": 9573,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "skier",
+      "side": "BUY",
+      "itemId": "extractionmod:spark_plug",
+      "price": 4285,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "jaeger",
+      "side": "BUY",
+      "itemId": "extractionmod:duct_tape",
+      "price": 1199,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "prapor",
+      "side": "BUY",
+      "itemId": "extractionmod:bulbex_cable_cutter",
+      "price": 42000,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "peacekeeper",
+      "side": "SELL",
+      "itemId": "extractionmod:hemostat",
+      "price": 58,
+      "minLevel": 1,
+      "currency": "USD"
+    },
+    {
+      "traderId": "skier",
+      "side": "BUY",
+      "itemId": "extractionmod:christmas_tree_ornament_violet",
+      "price": 7800,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:classic_matches",
+      "price": 1030,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "skier",
+      "side": "BUY",
+      "itemId": "extractionmod:radiator_helix",
+      "price": 5655,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:ai2",
+      "price": 2121,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "skier",
+      "side": "BUY",
+      "itemId": "extractionmod:advanced_current_converter",
+      "price": 117000,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:pipe_grip_wrench",
+      "price": 67320,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "prapor",
+      "side": "SELL",
+      "itemId": "extractionmod:5_45x39_t",
+      "price": 123,
+      "minLevel": 2,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "prapor",
+      "side": "BUY",
+      "itemId": "extractionmod:mp5mag30",
+      "price": 1604,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "peacekeeper",
+      "side": "SELL",
+      "itemId": "extractionmod:9x19_m882",
+      "price": 1,
+      "minLevel": 1,
+      "currency": "USD"
+    },
+    {
+      "traderId": "prapor",
+      "side": "BUY",
+      "itemId": "extractionmod:5_56x45_m855",
+      "price": 72,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "jaeger",
+      "side": "BUY",
+      "itemId": "extractionmod:pack_of_screws",
+      "price": 1507,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "ragman",
+      "side": "BUY",
+      "itemId": "extractionmod:kolpak_1s_riot_helmet",
+      "price": 3999,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "mechanic",
+      "side": "BUY",
+      "itemId": "extractionmod:7_62x39_fmj",
+      "price": 54,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "prapor",
+      "side": "BUY",
+      "itemId": "extractionmod:mfun",
+      "price": 10460,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "skier",
+      "side": "BUY",
+      "itemId": "extractionmod:tac_kek_fast_mt_helmet",
+      "price": 4290,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:calok_b",
+      "price": 2330,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:rye_croutons",
+      "price": 1595,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "peacekeeper",
+      "side": "BUY",
+      "itemId": "extractionmod:military_cofdm_transmitter",
+      "price": 433,
+      "minLevel": 1,
+      "currency": "USD"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:toothpaste",
+      "price": 982,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "mechanic",
+      "side": "BUY",
+      "itemId": "extractionmod:7_62x54r_lps",
+      "price": 220,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "mechanic",
+      "side": "BUY",
+      "itemId": "extractionmod:bulbex_cable_cutter",
+      "price": 47250,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "mechanic",
+      "side": "BUY",
+      "itemId": "extractionmod:damaged_hard_drive",
+      "price": 3370,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "ragman",
+      "side": "BUY",
+      "itemId": "extractionmod:fleece_fabric",
+      "price": 2000,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "peacekeeper",
+      "side": "BUY",
+      "itemId": "extractionmod:zsh_1_2m_helmet_black_cover",
+      "price": 132,
+      "minLevel": 1,
+      "currency": "USD"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:chimney_drain_cleaner",
+      "price": 4823,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:horse_figurine",
+      "price": 5838,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "prapor",
+      "side": "BUY",
+      "itemId": "extractionmod:fierce_blow_sledgehammer",
+      "price": 52800,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:ripstop_fabric",
+      "price": 2958,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:canned_beef_stew_large",
+      "price": 8360,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "skier",
+      "side": "BUY",
+      "itemId": "extractionmod:roler_submariner_watch",
+      "price": 27709,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "prapor",
+      "side": "BUY",
+      "itemId": "extractionmod:strike_cigarettes",
+      "price": 1248,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "prapor",
+      "side": "BUY",
+      "itemId": "extractionmod:paca",
+      "price": 10505,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "jaeger",
+      "side": "BUY",
+      "itemId": "extractionmod:car_battery",
+      "price": 29550,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "jaeger",
+      "side": "BUY",
+      "itemId": "extractionmod:surv12",
+      "price": 27649,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:cms",
+      "price": 14688,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "jaeger",
+      "side": "BUY",
+      "itemId": "extractionmod:rye_croutons",
+      "price": 1501,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "skier",
+      "side": "BUY",
+      "itemId": "extractionmod:damaged_hard_drive",
+      "price": 2921,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "skier",
+      "side": "BUY",
+      "itemId": "extractionmod:aramid_fiber_fabric",
+      "price": 3432,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "peacekeeper",
+      "side": "BUY",
+      "itemId": "extractionmod:ak74",
+      "price": 92,
+      "minLevel": 1,
+      "currency": "USD"
+    },
+    {
+      "traderId": "peacekeeper",
+      "side": "BUY",
+      "itemId": "extractionmod:9x19_m882",
+      "price": 1,
+      "minLevel": 1,
+      "currency": "USD"
+    },
+    {
+      "traderId": "jaeger",
+      "side": "BUY",
+      "itemId": "extractionmod:water_bottle",
+      "price": 15173,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:mre",
+      "price": 8701,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "prapor",
+      "side": "BUY",
+      "itemId": "extractionmod:aseptic_bandage",
+      "price": 466,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "jaeger",
+      "side": "BUY",
+      "itemId": "extractionmod:alyonka_chocolate",
+      "price": 5031,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "ragman",
+      "side": "BUY",
+      "itemId": "extractionmod:berkut",
+      "price": 11040,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "jaeger",
+      "side": "BUY",
+      "itemId": "extractionmod:tarker_dried_meat",
+      "price": 9423,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "mechanic",
+      "side": "BUY",
+      "itemId": "extractionmod:7_62x39_ps",
+      "price": 108,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "peacekeeper",
+      "side": "BUY",
+      "itemId": "extractionmod:12x70_buckshot",
+      "price": 1,
+      "minLevel": 1,
+      "currency": "USD"
+    },
+    {
+      "traderId": "skier",
+      "side": "BUY",
+      "itemId": "extractionmod:ofz_shell",
+      "price": 21840,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "jaeger",
+      "side": "BUY",
+      "itemId": "extractionmod:plexiglass",
+      "price": 4155,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "mechanic",
+      "side": "BUY",
+      "itemId": "extractionmod:7_62x39_pp",
+      "price": 319,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:oatflakes",
+      "price": 3859,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "mechanic",
+      "side": "BUY",
+      "itemId": "extractionmod:5_45x39_us",
+      "price": 39,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "peacekeeper",
+      "side": "BUY",
+      "itemId": "extractionmod:dvd_drive",
+      "price": 25,
+      "minLevel": 1,
+      "currency": "USD"
+    },
+    {
+      "traderId": "skier",
+      "side": "BUY",
+      "itemId": "extractionmod:cordura_polyamide_fabric",
+      "price": 5148,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "prapor",
+      "side": "BUY",
+      "itemId": "extractionmod:gas_mask_air_filter",
+      "price": 4015,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "mechanic",
+      "side": "BUY",
+      "itemId": "extractionmod:mosin",
+      "price": 11612,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "skier",
+      "side": "BUY",
+      "itemId": "extractionmod:apollo_soyuz_cigarettes",
+      "price": 975,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "skier",
+      "side": "BUY",
+      "itemId": "extractionmod:christmas_tree_ornament_silver",
+      "price": 3900,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "peacekeeper",
+      "side": "BUY",
+      "itemId": "extractionmod:secure_flash_drive",
+      "price": 119,
+      "minLevel": 1,
+      "currency": "USD"
+    },
+    {
+      "traderId": "mechanic",
+      "side": "BUY",
+      "itemId": "extractionmod:dvd_drive",
+      "price": 3732,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "jaeger",
+      "side": "BUY",
+      "itemId": "extractionmod:6b5_15_uley",
+      "price": 24546,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "skier",
+      "side": "BUY",
+      "itemId": "extractionmod:golden_rooster_figurine",
+      "price": 35320,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "jaeger",
+      "side": "BUY",
+      "itemId": "extractionmod:canned_green_peas",
+      "price": 3130,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "prapor",
+      "side": "BUY",
+      "itemId": "extractionmod:poxeram_cold_welding",
+      "price": 7760,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "prapor",
+      "side": "BUY",
+      "itemId": "extractionmod:7_62x39_bp",
+      "price": 444,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "ragman",
+      "side": "BUY",
+      "itemId": "extractionmod:paca",
+      "price": 13131,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "peacekeeper",
+      "side": "BUY",
+      "itemId": "extractionmod:military_gyrotachometer",
+      "price": 183,
+      "minLevel": 1,
+      "currency": "USD"
+    },
+    {
+      "traderId": "peacekeeper",
+      "side": "BUY",
+      "itemId": "extractionmod:body_armor_repair_kit",
+      "price": 595,
+      "minLevel": 1,
+      "currency": "USD"
+    },
+    {
+      "traderId": "jaeger",
+      "side": "BUY",
+      "itemId": "extractionmod:pressure_gauge",
+      "price": 29376,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "mechanic",
+      "side": "BUY",
+      "itemId": "extractionmod:gps_signal_amplifier_unit",
+      "price": 54000,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "peacekeeper",
+      "side": "BUY",
+      "itemId": "extractionmod:diary",
+      "price": 173,
+      "minLevel": 1,
+      "currency": "USD"
+    },
+    {
+      "traderId": "ragman",
+      "side": "BUY",
+      "itemId": "extractionmod:mfun",
+      "price": 13112,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:measuring_tape",
+      "price": 1922,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "skier",
+      "side": "BUY",
+      "itemId": "extractionmod:hgrid",
+      "price": 76438,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "prapor",
+      "side": "BUY",
+      "itemId": "extractionmod:mp133",
+      "price": 9091,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "prapor",
+      "side": "BUY",
+      "itemId": "extractionmod:salewa",
+      "price": 6036,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "jaeger",
+      "side": "SELL",
+      "itemId": "extractionmod:12x70_buckshot",
+      "price": 249,
+      "minLevel": 3,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "skier",
+      "side": "BUY",
+      "itemId": "extractionmod:poyas_rig",
+      "price": 16116,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:duct_tape",
+      "price": 1274,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "prapor",
+      "side": "BUY",
+      "itemId": "extractionmod:cordura_polyamide_fabric",
+      "price": 5280,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "prapor",
+      "side": "BUY",
+      "itemId": "extractionmod:5_45x39_hp",
+      "price": 20,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "jaeger",
+      "side": "BUY",
+      "itemId": "extractionmod:augmentin",
+      "price": 5284,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:canned_herring",
+      "price": 8643,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:kektape_duct_tape",
+      "price": 12240,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "ragman",
+      "side": "BUY",
+      "itemId": "extractionmod:pilgrim",
+      "price": 39499,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "prapor",
+      "side": "BUY",
+      "itemId": "extractionmod:augmentin",
+      "price": 4404,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "prapor",
+      "side": "BUY",
+      "itemId": "extractionmod:bear_buddy_plush_toy",
+      "price": 34680,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "skier",
+      "side": "BUY",
+      "itemId": "extractionmod:m9a3mag17",
+      "price": 702,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "mechanic",
+      "side": "BUY",
+      "itemId": "extractionmod:mfun",
+      "price": 13112,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:vita_juice",
+      "price": 1762,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "jaeger",
+      "side": "BUY",
+      "itemId": "extractionmod:salty_dog_sausage",
+      "price": 9600,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "prapor",
+      "side": "BUY",
+      "itemId": "extractionmod:5_45x39_t",
+      "price": 36,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "jaeger",
+      "side": "BUY",
+      "itemId": "extractionmod:devildog_mayo",
+      "price": 5824,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "jaeger",
+      "side": "BUY",
+      "itemId": "extractionmod:instant_noodles",
+      "price": 6039,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "skier",
+      "side": "BUY",
+      "itemId": "extractionmod:dr_lupos_coffee_beans",
+      "price": 20280,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "skier",
+      "side": "BUY",
+      "itemId": "extractionmod:gps_signal_amplifier_unit",
+      "price": 46800,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "mechanic",
+      "side": "BUY",
+      "itemId": "extractionmod:light_bulb",
+      "price": 4275,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:military_cofdm_transmitter",
+      "price": 74205,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "mechanic",
+      "side": "BUY",
+      "itemId": "extractionmod:7_62x39_sp",
+      "price": 45,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "jaeger",
+      "side": "BUY",
+      "itemId": "extractionmod:hemostat",
+      "price": 1228,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "ragman",
+      "side": "BUY",
+      "itemId": "extractionmod:thunderbolt",
+      "price": 12580,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:ledx_skin_transilluminator",
+      "price": 494700,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "peacekeeper",
+      "side": "BUY",
+      "itemId": "extractionmod:leatherman_multitool",
+      "price": 46,
+      "minLevel": 1,
+      "currency": "USD"
+    },
+    {
+      "traderId": "jaeger",
+      "side": "BUY",
+      "itemId": "extractionmod:aseptic_bandage",
+      "price": 559,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:cpu_fan",
+      "price": 2381,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "mechanic",
+      "side": "BUY",
+      "itemId": "extractionmod:military_battery",
+      "price": 148500,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "prapor",
+      "side": "BUY",
+      "itemId": "extractionmod:5_56x45_shelldrop",
+      "price": 52,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:army_crackers",
+      "price": 1225,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "prapor",
+      "side": "BUY",
+      "itemId": "extractionmod:hand_drill",
+      "price": 24000,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "peacekeeper",
+      "side": "BUY",
+      "itemId": "extractionmod:akm",
+      "price": 117,
+      "minLevel": 1,
+      "currency": "USD"
+    },
+    {
+      "traderId": "therapist",
+      "side": "SELL",
+      "itemId": "extractionmod:factory_plan_map",
+      "price": 22410,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "skier",
+      "side": "BUY",
+      "itemId": "extractionmod:7_62x39_hp",
+      "price": 27,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:gps_signal_amplifier_unit",
+      "price": 61200,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:paracord",
+      "price": 11475,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "peacekeeper",
+      "side": "BUY",
+      "itemId": "extractionmod:bronze_lion_figurine",
+      "price": 485,
+      "minLevel": 1,
+      "currency": "USD"
+    },
+    {
+      "traderId": "peacekeeper",
+      "side": "BUY",
+      "itemId": "extractionmod:working_lcd",
+      "price": 113,
+      "minLevel": 1,
+      "currency": "USD"
+    },
+    {
+      "traderId": "ragman",
+      "side": "SELL",
+      "itemId": "extractionmod:comtac2",
+      "price": 52890,
+      "minLevel": 2,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "skier",
+      "side": "BUY",
+      "itemId": "extractionmod:ak74",
+      "price": 12288,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "prapor",
+      "side": "BUY",
+      "itemId": "extractionmod:pipe_grip_wrench",
+      "price": 52800,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:ophthalmoscope",
+      "price": 43305,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "prapor",
+      "side": "BUY",
+      "itemId": "extractionmod:sks",
+      "price": 7732,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:corrugated_hose",
+      "price": 4856,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "jaeger",
+      "side": "BUY",
+      "itemId": "extractionmod:shustrilo_sealing_foam",
+      "price": 17040,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "mechanic",
+      "side": "BUY",
+      "itemId": "extractionmod:5_45x39_sp",
+      "price": 27,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "prapor",
+      "side": "BUY",
+      "itemId": "extractionmod:insulating_tape",
+      "price": 807,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "skier",
+      "side": "BUY",
+      "itemId": "extractionmod:5_45x39_hp",
+      "price": 19,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:can_of_white_salt",
+      "price": 4080,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "peacekeeper",
+      "side": "BUY",
+      "itemId": "extractionmod:golden_neck_chain",
+      "price": 114,
+      "minLevel": 1,
+      "currency": "USD"
+    },
+    {
+      "traderId": "jaeger",
+      "side": "BUY",
+      "itemId": "extractionmod:canned_beef_stew_small",
+      "price": 6840,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "skier",
+      "side": "BUY",
+      "itemId": "extractionmod:cpu_fan",
+      "price": 1821,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "peacekeeper",
+      "side": "SELL",
+      "itemId": "extractionmod:5_56x45_shelldrop",
+      "price": 1,
+      "minLevel": 3,
+      "currency": "USD"
+    },
+    {
+      "traderId": "peacekeeper",
+      "side": "BUY",
+      "itemId": "extractionmod:gas_mask_air_filter",
+      "price": 164,
+      "minLevel": 1,
+      "currency": "USD"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:goldenstar_balm",
+      "price": 11786,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "skier",
+      "side": "BUY",
+      "itemId": "extractionmod:akm",
+      "price": 15425,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "skier",
+      "side": "BUY",
+      "itemId": "extractionmod:military_power_filter",
+      "price": 21450,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:analog_thermometer",
+      "price": 23256,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "mechanic",
+      "side": "BUY",
+      "itemId": "extractionmod:7_62x39_us",
+      "price": 72,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:water_bottle",
+      "price": 16122,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "SELL",
+      "itemId": "extractionmod:emelya_croutons",
+      "price": 20711,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "skier",
+      "side": "BUY",
+      "itemId": "extractionmod:weapon_parts",
+      "price": 5553,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "ragman",
+      "side": "BUY",
+      "itemId": "extractionmod:scavbackpack",
+      "price": 10050,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:phase_control_relay",
+      "price": 3301,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "peacekeeper",
+      "side": "BUY",
+      "itemId": "extractionmod:christmas_tree_ornament_violet",
+      "price": 60,
+      "minLevel": 1,
+      "currency": "USD"
+    },
+    {
+      "traderId": "mechanic",
+      "side": "BUY",
+      "itemId": "extractionmod:tshaped_plug",
+      "price": 1116,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:crickent_lighter",
+      "price": 673,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "jaeger",
+      "side": "BUY",
+      "itemId": "extractionmod:vaseline_balm",
+      "price": 5700,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "mechanic",
+      "side": "BUY",
+      "itemId": "extractionmod:7_62x39_hp",
+      "price": 31,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "skier",
+      "side": "BUY",
+      "itemId": "extractionmod:7_62x39_mai_ap",
+      "price": 546,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "mechanic",
+      "side": "BUY",
+      "itemId": "extractionmod:cyclon_battery",
+      "price": 38250,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:devildog_mayo",
+      "price": 6188,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "jaeger",
+      "side": "BUY",
+      "itemId": "extractionmod:akm",
+      "price": 1232,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "peacekeeper",
+      "side": "BUY",
+      "itemId": "extractionmod:light_bulb",
+      "price": 28,
+      "minLevel": 1,
+      "currency": "USD"
+    },
+    {
+      "traderId": "peacekeeper",
+      "side": "BUY",
+      "itemId": "extractionmod:military_power_filter",
+      "price": 164,
+      "minLevel": 1,
+      "currency": "USD"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:round_pliers",
+      "price": 13770,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:ibuprofen",
+      "price": 10295,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "peacekeeper",
+      "side": "BUY",
+      "itemId": "extractionmod:zsh_1_2m_helmet_olive_drab",
+      "price": 144,
+      "minLevel": 1,
+      "currency": "USD"
+    },
+    {
+      "traderId": "skier",
+      "side": "BUY",
+      "itemId": "extractionmod:7_62x39_pp",
+      "price": 276,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:canned_duck_pate",
+      "price": 7268,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "skier",
+      "side": "BUY",
+      "itemId": "extractionmod:7_62x39_ps",
+      "price": 93,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:pack_of_milk",
+      "price": 7524,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "skier",
+      "side": "BUY",
+      "itemId": "extractionmod:5_45x39_sp",
+      "price": 26,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "prapor",
+      "side": "BUY",
+      "itemId": "extractionmod:mp5",
+      "price": 16617,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:shustrilo_sealing_foam",
+      "price": 18106,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "jaeger",
+      "side": "BUY",
+      "itemId": "extractionmod:thunderbolt",
+      "price": 12076,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:canned_beef_stew_small",
+      "price": 7268,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:condensed_milk",
+      "price": 12720,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "skier",
+      "side": "BUY",
+      "itemId": "extractionmod:6b5_15_uley",
+      "price": 19944,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "mechanic",
+      "side": "BUY",
+      "itemId": "extractionmod:body_armor_repair_kit",
+      "price": 90000,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "skier",
+      "side": "BUY",
+      "itemId": "extractionmod:capacitors",
+      "price": 975,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "prapor",
+      "side": "BUY",
+      "itemId": "extractionmod:water_filter",
+      "price": 9800,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "skier",
+      "side": "BUY",
+      "itemId": "extractionmod:nixxor_lens",
+      "price": 9867,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "ragman",
+      "side": "SELL",
+      "itemId": "extractionmod:bearcapblk",
+      "price": 2540,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "skier",
+      "side": "BUY",
+      "itemId": "extractionmod:mfun",
+      "price": 10227,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "peacekeeper",
+      "side": "BUY",
+      "itemId": "extractionmod:7_62x39_mai_ap",
+      "price": 4,
+      "minLevel": 1,
+      "currency": "USD"
+    },
+    {
+      "traderId": "prapor",
+      "side": "BUY",
+      "itemId": "extractionmod:paracord",
+      "price": 9000,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "prapor",
+      "side": "BUY",
+      "itemId": "extractionmod:m9a3mag17",
+      "price": 720,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "peacekeeper",
+      "side": "BUY",
+      "itemId": "extractionmod:car_battery",
+      "price": 183,
+      "minLevel": 1,
+      "currency": "USD"
+    },
+    {
+      "traderId": "prapor",
+      "side": "BUY",
+      "itemId": "extractionmod:calok_b",
+      "price": 1828,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "mechanic",
+      "side": "BUY",
+      "itemId": "extractionmod:5_45x39_pp",
+      "price": 99,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "prapor",
+      "side": "BUY",
+      "itemId": "extractionmod:analgin",
+      "price": 1824,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "prapor",
+      "side": "BUY",
+      "itemId": "extractionmod:bolts",
+      "price": 4400,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "mechanic",
+      "side": "BUY",
+      "itemId": "extractionmod:5_45x39_ps",
+      "price": 63,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "skier",
+      "side": "BUY",
+      "itemId": "extractionmod:5_45x39_us",
+      "price": 34,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "prapor",
+      "side": "BUY",
+      "itemId": "extractionmod:5_45x39_ps",
+      "price": 56,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "mechanic",
+      "side": "BUY",
+      "itemId": "extractionmod:9x19_m882",
+      "price": 54,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "prapor",
+      "side": "BUY",
+      "itemId": "extractionmod:5_45x39_pp",
+      "price": 85,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:greenbat_battery",
+      "price": 13260,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "mechanic",
+      "side": "BUY",
+      "itemId": "extractionmod:round_pliers",
+      "price": 12150,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "mechanic",
+      "side": "BUY",
+      "itemId": "extractionmod:5_45x39_prs",
+      "price": 26,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:nixxor_lens",
+      "price": 12903,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "ragman",
+      "side": "BUY",
+      "itemId": "extractionmod:ghost_balaclava",
+      "price": 3394,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "peacekeeper",
+      "side": "BUY",
+      "itemId": "extractionmod:m9a3",
+      "price": 36,
+      "minLevel": 1,
+      "currency": "USD"
+    },
+    {
+      "traderId": "peacekeeper",
+      "side": "BUY",
+      "itemId": "extractionmod:9x19_pst_gzh",
+      "price": 1,
+      "minLevel": 1,
+      "currency": "USD"
+    },
+    {
+      "traderId": "mechanic",
+      "side": "BUY",
+      "itemId": "extractionmod:5_45x39_hp",
+      "price": 22,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:metal_spare_parts",
+      "price": 2550,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:saline_solution",
+      "price": 4339,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:hunting_matches",
+      "price": 1938,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "jaeger",
+      "side": "BUY",
+      "itemId": "extractionmod:military_corrugated_tube",
+      "price": 10206,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "prapor",
+      "side": "BUY",
+      "itemId": "extractionmod:5_45x39_us",
+      "price": 35,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:power_cord",
+      "price": 6437,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "prapor",
+      "side": "BUY",
+      "itemId": "extractionmod:xenomorph_sealing_foam",
+      "price": 13511,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "prapor",
+      "side": "BUY",
+      "itemId": "extractionmod:wilston_cigarettes",
+      "price": 3193,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "skier",
+      "side": "BUY",
+      "itemId": "extractionmod:7_62x39_sp",
+      "price": 39,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "prapor",
+      "side": "BUY",
+      "itemId": "extractionmod:military_corrugated_tube",
+      "price": 8505,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "jaeger",
+      "side": "BUY",
+      "itemId": "extractionmod:fierce_hatchling_moonshine",
+      "price": 96000,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "jaeger",
+      "side": "BUY",
+      "itemId": "extractionmod:crickent_lighter",
+      "price": 633,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:canned_sprats",
+      "price": 4545,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "ragman",
+      "side": "SELL",
+      "itemId": "extractionmod:afglass",
+      "price": 5124,
+      "minLevel": 3,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:tp200_tnt_brick",
+      "price": 17850,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "skier",
+      "side": "BUY",
+      "itemId": "extractionmod:paracord",
+      "price": 8775,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "skier",
+      "side": "BUY",
+      "itemId": "extractionmod:chainlet",
+      "price": 2821,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "jaeger",
+      "side": "BUY",
+      "itemId": "extractionmod:bolts",
+      "price": 5280,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "jaeger",
+      "side": "BUY",
+      "itemId": "extractionmod:canned_duck_pate",
+      "price": 6840,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "prapor",
+      "side": "BUY",
+      "itemId": "extractionmod:measuring_tape",
+      "price": 1507,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "peacekeeper",
+      "side": "BUY",
+      "itemId": "extractionmod:12x70_lead_slug",
+      "price": 1,
+      "minLevel": 1,
+      "currency": "USD"
+    },
+    {
+      "traderId": "jaeger",
+      "side": "BUY",
+      "itemId": "extractionmod:car_first_aid_kit",
+      "price": 3548,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "jaeger",
+      "side": "BUY",
+      "itemId": "extractionmod:dry_fuel",
+      "price": 20244,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "ragman",
+      "side": "SELL",
+      "itemId": "extractionmod:ghost_balaclava",
+      "price": 9436,
+      "minLevel": 4,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "mechanic",
+      "side": "BUY",
+      "itemId": "extractionmod:mp5mag30",
+      "price": 1804,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "mechanic",
+      "side": "BUY",
+      "itemId": "extractionmod:cpu_fan",
+      "price": 2101,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "skier",
+      "side": "BUY",
+      "itemId": "extractionmod:6b23_1",
+      "price": 77530,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "skier",
+      "side": "BUY",
+      "itemId": "extractionmod:bearcapblk",
+      "price": 713,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "prapor",
+      "side": "BUY",
+      "itemId": "extractionmod:fierce_hatchling_moonshine",
+      "price": 80000,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "mechanic",
+      "side": "BUY",
+      "itemId": "extractionmod:measuring_tape",
+      "price": 1696,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "skier",
+      "side": "BUY",
+      "itemId": "extractionmod:5_45x39_ps",
+      "price": 54,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:pack_of_nails",
+      "price": 2093,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "mechanic",
+      "side": "BUY",
+      "itemId": "extractionmod:advanced_current_converter",
+      "price": 135000,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "mechanic",
+      "side": "BUY",
+      "itemId": "extractionmod:sks",
+      "price": 8698,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "jaeger",
+      "side": "BUY",
+      "itemId": "extractionmod:slickers_bar",
+      "price": 3007,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "prapor",
+      "side": "SELL",
+      "itemId": "extractionmod:5_45x39_bt",
+      "price": 955,
+      "minLevel": 4,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "peacekeeper",
+      "side": "BUY",
+      "itemId": "extractionmod:cat_figurine",
+      "price": 185,
+      "minLevel": 1,
+      "currency": "USD"
+    },
+    {
+      "traderId": "mechanic",
+      "side": "BUY",
+      "itemId": "extractionmod:car_battery",
+      "price": 27703,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "jaeger",
+      "side": "BUY",
+      "itemId": "extractionmod:lucky_scav_junk_box",
+      "price": 583329,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:military_battery",
+      "price": 168300,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "jaeger",
+      "side": "BUY",
+      "itemId": "extractionmod:vita_juice",
+      "price": 1658,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "jaeger",
+      "side": "BUY",
+      "itemId": "extractionmod:tourniquet",
+      "price": 737,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:golden_rooster_figurine",
+      "price": 46188,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "peacekeeper",
+      "side": "BUY",
+      "itemId": "extractionmod:5_56x45_shelldrop",
+      "price": 1,
+      "minLevel": 1,
+      "currency": "USD"
+    },
+    {
+      "traderId": "skier",
+      "side": "BUY",
+      "itemId": "extractionmod:jar_of_pickles",
+      "price": 36439,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "prapor",
+      "side": "SELL",
+      "itemId": "extractionmod:mosin",
+      "price": 52657,
+      "minLevel": 2,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "ragman",
+      "side": "BUY",
+      "itemId": "extractionmod:msa_ach_tc_2002_mich_helmet",
+      "price": 24625,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:strike_cigarettes",
+      "price": 1591,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:car_battery",
+      "price": 31397,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "prapor",
+      "side": "BUY",
+      "itemId": "extractionmod:7_62x54r_lps",
+      "price": 196,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "peacekeeper",
+      "side": "BUY",
+      "itemId": "extractionmod:topographic_survey_maps",
+      "price": 214,
+      "minLevel": 1,
+      "currency": "USD"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:toolset",
+      "price": 15810,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:silicone_tube",
+      "price": 9639,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:bundle_of_wires",
+      "price": 3774,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "prapor",
+      "side": "BUY",
+      "itemId": "extractionmod:jar_of_pickles",
+      "price": 37374,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "ragman",
+      "side": "BUY",
+      "itemId": "extractionmod:afglass",
+      "price": 1090,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "jaeger",
+      "side": "BUY",
+      "itemId": "extractionmod:oatflakes",
+      "price": 3632,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "skier",
+      "side": "BUY",
+      "itemId": "extractionmod:12x70_buckshot",
+      "price": 74,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "skier",
+      "side": "BUY",
+      "itemId": "extractionmod:5_45x39_t",
+      "price": 35,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "skier",
+      "side": "BUY",
+      "itemId": "extractionmod:energy_saving_lamp",
+      "price": 4220,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "ragman",
+      "side": "SELL",
+      "itemId": "extractionmod:useccapcoyote",
+      "price": 2283,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "skier",
+      "side": "BUY",
+      "itemId": "extractionmod:press_pass",
+      "price": 19500,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "skier",
+      "side": "BUY",
+      "itemId": "extractionmod:arseniy_buckwheat",
+      "price": 8697,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "ragman",
+      "side": "BUY",
+      "itemId": "extractionmod:zsh_1_2m_helmet_black_cover",
+      "price": 22299,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "prapor",
+      "side": "SELL",
+      "itemId": "extractionmod:akm",
+      "price": 53803,
+      "minLevel": 2,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "jaeger",
+      "side": "BUY",
+      "itemId": "extractionmod:army_crackers",
+      "price": 1152,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "prapor",
+      "side": "BUY",
+      "itemId": "extractionmod:car_first_aid_kit",
+      "price": 2956,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "mechanic",
+      "side": "BUY",
+      "itemId": "extractionmod:energy_saving_lamp",
+      "price": 4869,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "peacekeeper",
+      "side": "BUY",
+      "itemId": "extractionmod:tech_manual",
+      "price": 71,
+      "minLevel": 1,
+      "currency": "USD"
+    },
+    {
+      "traderId": "peacekeeper",
+      "side": "SELL",
+      "itemId": "extractionmod:mfun",
+      "price": 297,
+      "minLevel": 2,
+      "currency": "USD"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:arseniy_buckwheat",
+      "price": 11373,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "peacekeeper",
+      "side": "BUY",
+      "itemId": "extractionmod:7_62x39_pp",
+      "price": 2,
+      "minLevel": 1,
+      "currency": "USD"
+    },
+    {
+      "traderId": "peacekeeper",
+      "side": "BUY",
+      "itemId": "extractionmod:5_45x39_ppbs",
+      "price": 4,
+      "minLevel": 1,
+      "currency": "USD"
+    },
+    {
+      "traderId": "mechanic",
+      "side": "BUY",
+      "itemId": "extractionmod:magnet",
+      "price": 5720,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "prapor",
+      "side": "BUY",
+      "itemId": "extractionmod:vaseline_balm",
+      "price": 4750,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "peacekeeper",
+      "side": "BUY",
+      "itemId": "extractionmod:printed_circuit_board",
+      "price": 38,
+      "minLevel": 1,
+      "currency": "USD"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:slim_diary",
+      "price": 1983,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "peacekeeper",
+      "side": "BUY",
+      "itemId": "extractionmod:7_62x39_ps",
+      "price": 1,
+      "minLevel": 1,
+      "currency": "USD"
+    },
+    {
+      "traderId": "prapor",
+      "side": "BUY",
+      "itemId": "extractionmod:aluminum_splint",
+      "price": 949,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:christmas_tree_ornament_silver",
+      "price": 5100,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "jaeger",
+      "side": "BUY",
+      "itemId": "extractionmod:poyas_rig",
+      "price": 19830,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "skier",
+      "side": "BUY",
+      "itemId": "extractionmod:phase_control_relay",
+      "price": 2524,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:press_pass",
+      "price": 25500,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:power_supply_unit",
+      "price": 4047,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "prapor",
+      "side": "BUY",
+      "itemId": "extractionmod:mosin",
+      "price": 10322,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "ragman",
+      "side": "SELL",
+      "itemId": "extractionmod:berkut",
+      "price": 30692,
+      "minLevel": 2,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "jaeger",
+      "side": "SELL",
+      "itemId": "extractionmod:7_62x39_hp",
+      "price": 92,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "prapor",
+      "side": "BUY",
+      "itemId": "extractionmod:7_62x39_fmj",
+      "price": 56,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "jaeger",
+      "side": "BUY",
+      "itemId": "extractionmod:wd40",
+      "price": 3339,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "ragman",
+      "side": "BUY",
+      "itemId": "extractionmod:commando",
+      "price": 14309,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "peacekeeper",
+      "side": "SELL",
+      "itemId": "extractionmod:12x70_lead_slug",
+      "price": 1,
+      "minLevel": 1,
+      "currency": "USD"
+    },
+    {
+      "traderId": "mechanic",
+      "side": "BUY",
+      "itemId": "extractionmod:12x70_buckshot",
+      "price": 85,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "mechanic",
+      "side": "BUY",
+      "itemId": "extractionmod:mp133",
+      "price": 10227,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "jaeger",
+      "side": "BUY",
+      "itemId": "extractionmod:fireklean_gun_lube",
+      "price": 17485,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "mechanic",
+      "side": "BUY",
+      "itemId": "extractionmod:capacitors",
+      "price": 1125,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:military_power_filter",
+      "price": 28050,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "peacekeeper",
+      "side": "BUY",
+      "itemId": "extractionmod:energy_saving_lamp",
+      "price": 32,
+      "minLevel": 1,
+      "currency": "USD"
+    },
+    {
+      "traderId": "jaeger",
+      "side": "SELL",
+      "itemId": "extractionmod:cms",
+      "price": 67911,
+      "minLevel": 2,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "skier",
+      "side": "BUY",
+      "itemId": "extractionmod:military_cable",
+      "price": 16068,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "prapor",
+      "side": "BUY",
+      "itemId": "extractionmod:toolset",
+      "price": 12400,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "prapor",
+      "side": "BUY",
+      "itemId": "extractionmod:aramid_fiber_fabric",
+      "price": 3520,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "jaeger",
+      "side": "BUY",
+      "itemId": "extractionmod:ai2",
+      "price": 1996,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "prapor",
+      "side": "BUY",
+      "itemId": "extractionmod:screw_nuts",
+      "price": 3480,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "mechanic",
+      "side": "BUY",
+      "itemId": "extractionmod:m9a3mag17",
+      "price": 810,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "ragman",
+      "side": "BUY",
+      "itemId": "extractionmod:zsh_1_2m_helmet_olive_drab",
+      "price": 24464,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "skier",
+      "side": "BUY",
+      "itemId": "extractionmod:zsh_1_2m_helmet_black_cover",
+      "price": 17393,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "prapor",
+      "side": "BUY",
+      "itemId": "extractionmod:weapon_parts",
+      "price": 5696,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "mechanic",
+      "side": "BUY",
+      "itemId": "extractionmod:nixxor_lens",
+      "price": 11385,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:emelya_croutons",
+      "price": 1519,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "mechanic",
+      "side": "BUY",
+      "itemId": "extractionmod:lucky_scav_junk_box",
+      "price": 607634,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "mechanic",
+      "side": "BUY",
+      "itemId": "extractionmod:7_62x39_bp",
+      "price": 499,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "mechanic",
+      "side": "BUY",
+      "itemId": "extractionmod:leatherman_multitool",
+      "price": 6912,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "jaeger",
+      "side": "BUY",
+      "itemId": "extractionmod:ice_green_tea",
+      "price": 1165,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "peacekeeper",
+      "side": "BUY",
+      "itemId": "extractionmod:7_62x39_sp",
+      "price": 1,
+      "minLevel": 1,
+      "currency": "USD"
+    },
+    {
+      "traderId": "skier",
+      "side": "BUY",
+      "itemId": "extractionmod:paca",
+      "price": 10242,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:hemostat",
+      "price": 1305,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "peacekeeper",
+      "side": "BUY",
+      "itemId": "extractionmod:kolpak_1s_riot_helmet",
+      "price": 24,
+      "minLevel": 1,
+      "currency": "USD"
+    },
+    {
+      "traderId": "prapor",
+      "side": "BUY",
+      "itemId": "extractionmod:round_pliers",
+      "price": 10800,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "peacekeeper",
+      "side": "BUY",
+      "itemId": "extractionmod:greenbat_battery",
+      "price": 77,
+      "minLevel": 1,
+      "currency": "USD"
+    },
+    {
+      "traderId": "ragman",
+      "side": "SELL",
+      "itemId": "extractionmod:zsh_1_2m_helmet_black_cover",
+      "price": 61993,
+      "minLevel": 3,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "peacekeeper",
+      "side": "BUY",
+      "itemId": "extractionmod:tshaped_plug",
+      "price": 7,
+      "minLevel": 1,
+      "currency": "USD"
+    },
+    {
+      "traderId": "ragman",
+      "side": "BUY",
+      "itemId": "extractionmod:bearcapblk",
+      "price": 913,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "prapor",
+      "side": "BUY",
+      "itemId": "extractionmod:9x19_pst_gzh",
+      "price": 24,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:metal_cutting_scissors",
+      "price": 11373,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "prapor",
+      "side": "BUY",
+      "itemId": "extractionmod:5_45x39_prs",
+      "price": 23,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "skier",
+      "side": "BUY",
+      "itemId": "extractionmod:5_56x45_shelldrop",
+      "price": 50,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:jar_of_pickles",
+      "price": 47651,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "skier",
+      "side": "BUY",
+      "itemId": "extractionmod:12x70_lead_slug",
+      "price": 21,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "peacekeeper",
+      "side": "SELL",
+      "itemId": "extractionmod:5_56x45_m855",
+      "price": 2,
+      "minLevel": 3,
+      "currency": "USD"
+    },
+    {
+      "traderId": "mechanic",
+      "side": "BUY",
+      "itemId": "extractionmod:pipe_grip_wrench",
+      "price": 59400,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "peacekeeper",
+      "side": "BUY",
+      "itemId": "extractionmod:m9a3mag17",
+      "price": 5,
+      "minLevel": 1,
+      "currency": "USD"
+    },
+    {
+      "traderId": "jaeger",
+      "side": "BUY",
+      "itemId": "extractionmod:cms",
+      "price": 13824,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "prapor",
+      "side": "BUY",
+      "itemId": "extractionmod:sewing_kit",
+      "price": 15200,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "jaeger",
+      "side": "BUY",
+      "itemId": "extractionmod:mbss_ucp",
+      "price": 8793,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:tshaped_plug",
+      "price": 1265,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "prapor",
+      "side": "BUY",
+      "itemId": "extractionmod:metal_cutting_scissors",
+      "price": 8920,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "mechanic",
+      "side": "BUY",
+      "itemId": "extractionmod:military_power_filter",
+      "price": 24750,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "mechanic",
+      "side": "BUY",
+      "itemId": "extractionmod:wrench",
+      "price": 1594,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:wd40",
+      "price": 3548,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "jaeger",
+      "side": "BUY",
+      "itemId": "extractionmod:ibuprofen",
+      "price": 9690,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "peacekeeper",
+      "side": "SELL",
+      "itemId": "extractionmod:m9a3mag17",
+      "price": 20,
+      "minLevel": 1,
+      "currency": "USD"
+    },
+    {
+      "traderId": "peacekeeper",
+      "side": "BUY",
+      "itemId": "extractionmod:7_62x39_us",
+      "price": 1,
+      "minLevel": 1,
+      "currency": "USD"
+    },
+    {
+      "traderId": "mechanic",
+      "side": "BUY",
+      "itemId": "extractionmod:ak74mag30",
+      "price": 913,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:apollo_soyuz_cigarettes",
+      "price": 1275,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:christmas_tree_ornament_violet",
+      "price": 10200,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "mechanic",
+      "side": "BUY",
+      "itemId": "extractionmod:cordura_polyamide_fabric",
+      "price": 6600,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "peacekeeper",
+      "side": "BUY",
+      "itemId": "extractionmod:6b47_ratnik_bsh_helmet",
+      "price": 106,
+      "minLevel": 1,
+      "currency": "USD"
+    },
+    {
+      "traderId": "skier",
+      "side": "BUY",
+      "itemId": "extractionmod:mp5mag30",
+      "price": 1563,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "SELL",
+      "itemId": "extractionmod:ai2",
+      "price": 6650,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:alyonka_chocolate",
+      "price": 5346,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:forty_two_signature_blend_english_tea",
+      "price": 14154,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:damaged_hard_drive",
+      "price": 3820,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "prapor",
+      "side": "BUY",
+      "itemId": "extractionmod:ibuprofen",
+      "price": 8075,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "skier",
+      "side": "SELL",
+      "itemId": "extractionmod:7_62x39_sp",
+      "price": 146,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:pliers_elite",
+      "price": 14790,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "prapor",
+      "side": "BUY",
+      "itemId": "extractionmod:5_45x39_bp",
+      "price": 252,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "jaeger",
+      "side": "BUY",
+      "itemId": "extractionmod:screw_nuts",
+      "price": 4176,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:bolts",
+      "price": 5610,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:bulbex_cable_cutter",
+      "price": 53550,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "prapor",
+      "side": "BUY",
+      "itemId": "extractionmod:5_45x39_bt",
+      "price": 216,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "prapor",
+      "side": "BUY",
+      "itemId": "extractionmod:5_45x39_bs",
+      "price": 312,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "jaeger",
+      "side": "BUY",
+      "itemId": "extractionmod:mre",
+      "price": 8189,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:capacitors",
+      "price": 1275,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "jaeger",
+      "side": "BUY",
+      "itemId": "extractionmod:cyclon_battery",
+      "price": 40800,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:electric_motor",
+      "price": 21930,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:fp100_filter_absorber",
+      "price": 41820,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "prapor",
+      "side": "BUY",
+      "itemId": "extractionmod:m9a3",
+      "price": 5070,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "peacekeeper",
+      "side": "BUY",
+      "itemId": "extractionmod:roler_submariner_watch",
+      "price": 211,
+      "minLevel": 1,
+      "currency": "USD"
+    },
+    {
+      "traderId": "prapor",
+      "side": "BUY",
+      "itemId": "extractionmod:7_62x39_mai_ap",
+      "price": 560,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "peacekeeper",
+      "side": "BUY",
+      "itemId": "extractionmod:christmas_tree_ornament_silver",
+      "price": 30,
+      "minLevel": 1,
+      "currency": "USD"
+    },
+    {
+      "traderId": "prapor",
+      "side": "BUY",
+      "itemId": "extractionmod:analog_thermometer",
+      "price": 18240,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:electric_drill",
+      "price": 16800,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "jaeger",
+      "side": "BUY",
+      "itemId": "extractionmod:pineapple_juice",
+      "price": 1024,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "jaeger",
+      "side": "BUY",
+      "itemId": "extractionmod:kektape_duct_tape",
+      "price": 11520,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "skier",
+      "side": "BUY",
+      "itemId": "extractionmod:5_45x39_prs",
+      "price": 23,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "ragman",
+      "side": "SELL",
+      "itemId": "extractionmod:lshz_lightweight_helmet",
+      "price": 44682,
+      "minLevel": 2,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "peacekeeper",
+      "side": "BUY",
+      "itemId": "extractionmod:7_62x39_hp",
+      "price": 1,
+      "minLevel": 1,
+      "currency": "USD"
+    },
+    {
+      "traderId": "peacekeeper",
+      "side": "BUY",
+      "itemId": "extractionmod:mp5",
+      "price": 123,
+      "minLevel": 1,
+      "currency": "USD"
+    },
+    {
+      "traderId": "skier",
+      "side": "BUY",
+      "itemId": "extractionmod:mp5",
+      "price": 16199,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "jaeger",
+      "side": "BUY",
+      "itemId": "extractionmod:calok_b",
+      "price": 2193,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "skier",
+      "side": "BUY",
+      "itemId": "extractionmod:msa_ach_tc_2001_mich_helmet",
+      "price": 20334,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "ragman",
+      "side": "BUY",
+      "itemId": "extractionmod:6b47_ratnik_bsh_helmet",
+      "price": 17931,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "jaeger",
+      "side": "SELL",
+      "itemId": "extractionmod:mp133",
+      "price": 29779,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "prapor",
+      "side": "SELL",
+      "itemId": "extractionmod:ak74mag30",
+      "price": 2763,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "peacekeeper",
+      "side": "BUY",
+      "itemId": "extractionmod:cyclon_battery",
+      "price": 251,
+      "minLevel": 1,
+      "currency": "USD"
+    },
+    {
+      "traderId": "mechanic",
+      "side": "BUY",
+      "itemId": "extractionmod:pliers_elite",
+      "price": 13050,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "prapor",
+      "side": "BUY",
+      "itemId": "extractionmod:metal_spare_parts",
+      "price": 2000,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:uzrgm_grenade_fuze",
+      "price": 4131,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "mechanic",
+      "side": "BUY",
+      "itemId": "extractionmod:phased_array_element",
+      "price": 74700,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "peacekeeper",
+      "side": "BUY",
+      "itemId": "extractionmod:radiator_helix",
+      "price": 43,
+      "minLevel": 1,
+      "currency": "USD"
+    },
+    {
+      "traderId": "peacekeeper",
+      "side": "BUY",
+      "itemId": "extractionmod:mosin",
+      "price": 77,
+      "minLevel": 1,
+      "currency": "USD"
+    },
+    {
+      "traderId": "jaeger",
+      "side": "BUY",
+      "itemId": "extractionmod:grand_juice",
+      "price": 1637,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "mechanic",
+      "side": "BUY",
+      "itemId": "extractionmod:power_supply_unit",
+      "price": 3571,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "skier",
+      "side": "BUY",
+      "itemId": "extractionmod:7_62x39_bp",
+      "price": 433,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "jaeger",
+      "side": "BUY",
+      "itemId": "extractionmod:analgin",
+      "price": 2188,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "jaeger",
+      "side": "BUY",
+      "itemId": "extractionmod:sugar",
+      "price": 10314,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "skier",
+      "side": "BUY",
+      "itemId": "extractionmod:vpx_flash_storage_module",
+      "price": 59436,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "peacekeeper",
+      "side": "SELL",
+      "itemId": "extractionmod:untar_helmet",
+      "price": 84,
+      "minLevel": 1,
+      "currency": "USD"
+    },
+    {
+      "traderId": "mechanic",
+      "side": "BUY",
+      "itemId": "extractionmod:paracord",
+      "price": 11250,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "ragman",
+      "side": "BUY",
+      "itemId": "extractionmod:tac_kek_fast_mt_helmet",
+      "price": 5500,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "mechanic",
+      "side": "BUY",
+      "itemId": "extractionmod:mp5",
+      "price": 18693,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "mechanic",
+      "side": "SELL",
+      "itemId": "extractionmod:9x19_pst_gzh",
+      "price": 78,
+      "minLevel": 2,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:military_cable",
+      "price": 21012,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "peacekeeper",
+      "side": "BUY",
+      "itemId": "extractionmod:christmas_tree_ornament_red",
+      "price": 45,
+      "minLevel": 1,
+      "currency": "USD"
+    },
+    {
+      "traderId": "prapor",
+      "side": "SELL",
+      "itemId": "extractionmod:7_62x39_us",
+      "price": 218,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:squash_spread",
+      "price": 8245,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "jaeger",
+      "side": "BUY",
+      "itemId": "extractionmod:emelya_croutons",
+      "price": 1430,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "skier",
+      "side": "BUY",
+      "itemId": "extractionmod:pc_cpu",
+      "price": 5426,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:toilet_paper",
+      "price": 4488,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "prapor",
+      "side": "BUY",
+      "itemId": "extractionmod:6b23_1",
+      "price": 40193,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "ragman",
+      "side": "SELL",
+      "itemId": "extractionmod:6b5_15_uley",
+      "price": 71084,
+      "minLevel": 2,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:hot_rod",
+      "price": 4710,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "prapor",
+      "side": "BUY",
+      "itemId": "extractionmod:tourniquet",
+      "price": 614,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "jaeger",
+      "side": "BUY",
+      "itemId": "extractionmod:6sh118",
+      "price": 69120,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:plexiglass",
+      "price": 4415,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "ragman",
+      "side": "BUY",
+      "itemId": "extractionmod:hgrid",
+      "price": 98000,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "peacekeeper",
+      "side": "BUY",
+      "itemId": "extractionmod:military_battery",
+      "price": 982,
+      "minLevel": 1,
+      "currency": "USD"
+    },
+    {
+      "traderId": "skier",
+      "side": "SELL",
+      "itemId": "extractionmod:bntimodule3m",
+      "price": 8366,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "skier",
+      "side": "BUY",
+      "itemId": "extractionmod:malboro_cigarettes",
+      "price": 861,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "peacekeeper",
+      "side": "BUY",
+      "itemId": "extractionmod:untar_helmet",
+      "price": 84,
+      "minLevel": 1,
+      "currency": "USD"
+    },
+    {
+      "traderId": "jaeger",
+      "side": "BUY",
+      "itemId": "extractionmod:pillbox",
+      "price": 10272,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "jaeger",
+      "side": "BUY",
+      "itemId": "extractionmod:canned_sprats",
+      "price": 4277,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:canned_humpback_salmon",
+      "price": 5027,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "peacekeeper",
+      "side": "BUY",
+      "itemId": "extractionmod:phased_array_element",
+      "price": 494,
+      "minLevel": 1,
+      "currency": "USD"
+    },
+    {
+      "traderId": "ragman",
+      "side": "BUY",
+      "itemId": "extractionmod:6b5_15_uley",
+      "price": 25569,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:vaseline_balm",
+      "price": 6056,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "jaeger",
+      "side": "BUY",
+      "itemId": "extractionmod:analog_thermometer",
+      "price": 21888,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "peacekeeper",
+      "side": "BUY",
+      "itemId": "extractionmod:power_cord",
+      "price": 38,
+      "minLevel": 1,
+      "currency": "USD"
+    },
+    {
+      "traderId": "jaeger",
+      "side": "BUY",
+      "itemId": "extractionmod:scavbackpack",
+      "price": 9648,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "skier",
+      "side": "BUY",
+      "itemId": "extractionmod:majaica_coffee_beans",
+      "price": 5841,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "skier",
+      "side": "BUY",
+      "itemId": "extractionmod:fp100_filter_absorber",
+      "price": 31980,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "jaeger",
+      "side": "BUY",
+      "itemId": "extractionmod:insulating_tape",
+      "price": 969,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "mechanic",
+      "side": "BUY",
+      "itemId": "extractionmod:military_gyrotachometer",
+      "price": 27900,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "peacekeeper",
+      "side": "BUY",
+      "itemId": "extractionmod:pc_cpu",
+      "price": 41,
+      "minLevel": 1,
+      "currency": "USD"
+    },
+    {
+      "traderId": "peacekeeper",
+      "side": "BUY",
+      "itemId": "extractionmod:tac_kek_fast_mt_helmet",
+      "price": 32,
+      "minLevel": 1,
+      "currency": "USD"
+    },
+    {
+      "traderId": "jaeger",
+      "side": "BUY",
+      "itemId": "extractionmod:slim_diary",
+      "price": 3007,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "therapist",
+      "side": "BUY",
+      "itemId": "extractionmod:working_lcd",
+      "price": 19380,
+      "minLevel": 1,
+      "currency": "RUB"
+    },
+    {
+      "traderId": "peacekeeper",
+      "side": "BUY",
+      "itemId": "extractionmod:intelligence_folder",
+      "price": 205,
+      "minLevel": 1,
+      "currency": "USD"
+    }
+  ],
+  "removed": [
+    "skier|BUY|extractionmod:crickent_lighter",
+    "ragman|SELL|extractionmod:pillbox",
+    "jaeger|BUY|extractionmod:water_bottle",
+    "therapist|BUY|extractionmod:lucky_scav_junk_box",
+    "therapist|BUY|extractionmod:mre",
+    "prapor|BUY|extractionmod:akmmag30",
+    "peacekeeper|SELL|extractionmod:mp5",
+    "ragman|BUY|extractionmod:berkut",
+    "mechanic|BUY|extractionmod:m9a3",
+    "skier|BUY|extractionmod:ssd_drive",
+    "mechanic|BUY|extractionmod:7_62x39_ps",
+    "mechanic|SELL|extractionmod:power_supply_unit",
+    "mechanic|BUY|extractionmod:7_62x39_pp",
+    "skier|SELL|extractionmod:afglass",
+    "skier|BUY|extractionmod:cordura_polyamide_fabric",
+    "ragman|SELL|extractionmod:paca",
+    "mechanic|BUY|extractionmod:mosin",
+    "mechanic|SELL|extractionmod:7_62x39_t45m",
+    "skier|BUY|extractionmod:apollo_soyuz_cigarettes",
+    "ragman|BUY|extractionmod:bntimodule3m",
+    "mechanic|SELL|extractionmod:mosin",
+    "ragman|SELL|extractionmod:mfun",
+    "ragman|SELL|extractionmod:7_62x39_us",
+    "prapor|SELL|extractionmod:7_62x39_ps",
+    "ragman|BUY|extractionmod:paca",
+    "prapor|BUY|extractionmod:akm",
+    "prapor|SELL|extractionmod:7_62x39_pp",
+    "ragman|BUY|extractionmod:7_62x39_us",
+    "ragman|BUY|extractionmod:ibuprofen",
+    "jaeger|BUY|extractionmod:7_62x39_us",
+    "jaeger|BUY|extractionmod:gas_mask_air_filter",
+    "ragman|BUY|extractionmod:mfun",
+    "jaeger|SELL|extractionmod:sugar",
+    "ragman|BUY|extractionmod:cordura_polyamide_fabric",
+    "jaeger|SELL|extractionmod:splint",
+    "skier|SELL|extractionmod:9x19_pst_gzh",
+    "prapor|BUY|extractionmod:mp133",
+    "prapor|BUY|extractionmod:salewa",
+    "skier|SELL|extractionmod:pliers_elite",
+    "peacekeeper|SELL|extractionmod:7_62x39_us",
+    "ragman|SELL|extractionmod:7_62x39_t45m",
+    "jaeger|SELL|extractionmod:12x70_buckshot",
+    "prapor|BUY|extractionmod:cordura_polyamide_fabric",
+    "therapist|SELL|extractionmod:ibuprofen",
+    "prapor|SELL|extractionmod:ibuprofen",
+    "jaeger|SELL|extractionmod:7_62x39_t45m",
+    "ragman|BUY|extractionmod:pilgrim",
+    "peacekeeper|BUY|extractionmod:military_corrugated_tube",
+    "prapor|BUY|extractionmod:bear_buddy_plush_toy",
+    "prapor|BUY|extractionmod:working_lcd",
+    "skier|SELL|extractionmod:akmmag30",
+    "peacekeeper|SELL|extractionmod:7_62x39_pp",
+    "jaeger|BUY|extractionmod:mp5",
+    "therapist|BUY|extractionmod:salewa",
+    "peacekeeper|SELL|extractionmod:7_62x39_ps",
+    "prapor|SELL|extractionmod:9x19_pst_gzh",
+    "prapor|BUY|extractionmod:forty_two_signature_blend_english_tea",
+    "jaeger|BUY|extractionmod:capacitors",
+    "mechanic|SELL|extractionmod:7_62x39_fmj",
+    "prapor|SELL|extractionmod:tp200_tnt_brick",
+    "prapor|BUY|extractionmod:7_62x39_t45m",
+    "peacekeeper|SELL|extractionmod:sugar",
+    "jaeger|BUY|extractionmod:metal_spare_parts",
+    "prapor|BUY|extractionmod:fleece_fabric",
+    "mechanic|BUY|extractionmod:light_bulb",
+    "prapor|SELL|extractionmod:scavbackpack",
+    "therapist|SELL|extractionmod:pile_of_meds",
+    "ragman|BUY|extractionmod:thunderbolt",
+    "ragman|BUY|extractionmod:7_62x39_pp",
+    "ragman|BUY|extractionmod:7_62x39_ps",
+    "jaeger|BUY|extractionmod:light_bulb",
+    "jaeger|SELL|extractionmod:mre",
+    "therapist|BUY|extractionmod:tourniquet",
+    "skier|BUY|extractionmod:7_62x39_fmj",
+    "prapor|SELL|extractionmod:mp5",
+    "prapor|BUY|extractionmod:5_56x45_shelldrop",
+    "peacekeeper|BUY|extractionmod:akm",
+    "prapor|SELL|extractionmod:7_62x39_t45m",
+    "therapist|BUY|extractionmod:car_first_aid_kit",
+    "skier|BUY|extractionmod:7_62x39_hp",
+    "peacekeeper|BUY|extractionmod:working_lcd",
+    "ragman|BUY|extractionmod:lucky_scav_junk_box",
+    "prapor|SELL|extractionmod:mfun",
+    "skier|SELL|extractionmod:ibuprofen",
+    "skier|SELL|extractionmod:comtac2",
+    "jaeger|BUY|extractionmod:splint",
+    "peacekeeper|SELL|extractionmod:berkut",
+    "ragman|SELL|extractionmod:7_62x39_ps",
+    "ragman|SELL|extractionmod:7_62x39_pp",
+    "skier|BUY|extractionmod:mosin",
+    "therapist|SELL|extractionmod:augmentin",
+    "skier|SELL|extractionmod:power_supply_unit",
+    "ragman|SELL|extractionmod:hgrid",
+    "therapist|BUY|extractionmod:7_62x39_fmj",
+    "prapor|SELL|extractionmod:7_62x54r_lps",
+    "peacekeeper|SELL|extractionmod:5_56x45_shelldrop",
+    "mechanic|SELL|extractionmod:7_62x39_ps",
+    "therapist|SELL|extractionmod:goldenstar_balm",
+    "skier|BUY|extractionmod:akm",
+    "skier|BUY|extractionmod:7_62x39_t45m",
+    "mechanic|BUY|extractionmod:7_62x39_us",
+    "mechanic|SELL|extractionmod:7_62x39_pp",
+    "skier|BUY|extractionmod:ibuprofen",
+    "therapist|BUY|extractionmod:water_bottle",
+    "therapist|SELL|extractionmod:surv12",
+    "jaeger|BUY|extractionmod:phase_control_relay",
+    "therapist|SELL|extractionmod:aseptic_bandage",
+    "ragman|BUY|extractionmod:scavbackpack",
+    "therapist|BUY|extractionmod:ololo_multivitamins",
+    "mechanic|BUY|extractionmod:akm",
+    "mechanic|BUY|extractionmod:working_lcd",
+    "prapor|BUY|extractionmod:berkut",
+    "skier|SELL|extractionmod:bulbex_cable_cutter",
+    "ragman|SELL|extractionmod:9x19_pst_gzh",
+    "peacekeeper|BUY|extractionmod:5_56x45_m855",
+    "mechanic|BUY|extractionmod:7_62x39_hp",
+    "skier|BUY|extractionmod:7_62x39_mai_ap",
+    "jaeger|BUY|extractionmod:akm",
+    "skier|SELL|extractionmod:9x19_m882",
+    "peacekeeper|BUY|extractionmod:military_power_filter",
+    "therapist|SELL|extractionmod:vaseline_balm",
+    "therapist|BUY|extractionmod:ibuprofen",
+    "jaeger|SELL|extractionmod:surv12",
+    "jaeger|BUY|extractionmod:6kh5_bayonet",
+    "therapist|BUY|extractionmod:sugar",
+    "skier|BUY|extractionmod:7_62x39_pp",
+    "skier|BUY|extractionmod:7_62x39_ps",
+    "peacekeeper|SELL|extractionmod:mp5mag30",
+    "mechanic|SELL|extractionmod:bulbex_cable_cutter",
+    "skier|BUY|extractionmod:bundle_of_wires",
+    "ragman|BUY|extractionmod:iotv_gen4",
+    "mechanic|SELL|extractionmod:metal_spare_parts",
+    "mechanic|BUY|extractionmod:sugar",
+    "skier|BUY|extractionmod:sugar",
+    "skier|BUY|extractionmod:wd40",
+    "peacekeeper|BUY|extractionmod:paca",
+    "jaeger|BUY|extractionmod:canned_humpback_salmon",
+    "mechanic|BUY|extractionmod:akmmag30",
+    "skier|BUY|extractionmod:capacitors",
+    "ragman|BUY|extractionmod:9x19_pst_gzh",
+    "therapist|BUY|extractionmod:bear_buddy_plush_toy",
+    "mechanic|BUY|extractionmod:5_56x45_m855",
+    "skier|BUY|extractionmod:nixxor_lens",
+    "jaeger|SELL|extractionmod:analgin",
+    "ragman|SELL|extractionmod:bearcapblk",
+    "ragman|SELL|extractionmod:akmmag30",
+    "prapor|BUY|extractionmod:m9a3mag17",
+    "peacekeeper|BUY|extractionmod:7_62x39_mai_ap",
+    "skier|BUY|extractionmod:9x19_pst_gzh",
+    "peacekeeper|SELL|extractionmod:ibuprofen",
+    "mechanic|SELL|extractionmod:working_lcd",
+    "prapor|BUY|extractionmod:calok_b",
+    "therapist|SELL|extractionmod:tourniquet",
+    "ragman|BUY|extractionmod:6b23_1",
+    "ragman|SELL|extractionmod:pilgrim",
+    "prapor|SELL|extractionmod:sugar",
+    "therapist|SELL|extractionmod:car_first_aid_kit",
+    "mechanic|SELL|extractionmod:military_corrugated_tube",
+    "jaeger|SELL|extractionmod:vaseline_balm",
+    "skier|BUY|extractionmod:bear_buddy_plush_toy",
+    "ragman|BUY|extractionmod:ghost_balaclava",
+    "peacekeeper|BUY|extractionmod:m9a3",
+    "peacekeeper|BUY|extractionmod:9x19_pst_gzh",
+    "jaeger|BUY|extractionmod:mosin",
+    "jaeger|SELL|extractionmod:12x70_lead_slug",
+    "ragman|SELL|extractionmod:6b23_1",
+    "peacekeeper|SELL|extractionmod:commando",
+    "mechanic|BUY|extractionmod:7_62x39_t45m",
+    "jaeger|BUY|extractionmod:spark_plug",
+    "peacekeeper|BUY|extractionmod:ibuprofen",
+    "skier|SELL|extractionmod:measuring_tape",
+    "jaeger|BUY|extractionmod:military_corrugated_tube",
+    "therapist|BUY|extractionmod:7_62x39_ps",
+    "therapist|BUY|extractionmod:7_62x39_pp",
+    "jaeger|BUY|extractionmod:military_power_filter",
+    "skier|BUY|extractionmod:7_62x39_sp",
+    "peacekeeper|BUY|extractionmod:sugar",
+    "mechanic|BUY|extractionmod:phase_control_relay",
+    "jaeger|BUY|extractionmod:crickent_lighter",
+    "prapor|BUY|extractionmod:majaica_coffee_beans",
+    "ragman|SELL|extractionmod:7_62x39_fmj",
+    "mechanic|BUY|extractionmod:gas_mask_air_filter",
+    "prapor|BUY|extractionmod:arseniy_buckwheat",
+    "peacekeeper|BUY|extractionmod:12x70_lead_slug",
+    "therapist|BUY|extractionmod:cordura_polyamide_fabric",
+    "jaeger|BUY|extractionmod:car_first_aid_kit",
+    "ragman|SELL|extractionmod:iotv_gen4",
+    "peacekeeper|SELL|extractionmod:7_62x39_fmj",
+    "ragman|SELL|extractionmod:scavbackpack",
+    "therapist|BUY|extractionmod:splint",
+    "jaeger|BUY|extractionmod:m9a3",
+    "jaeger|SELL|extractionmod:scavbackpack",
+    "peacekeeper|BUY|extractionmod:6b23_1",
+    "ragman|SELL|extractionmod:ghost_balaclava",
+    "mechanic|BUY|extractionmod:crickent_lighter",
+    "skier|BUY|extractionmod:6b23_1",
+    "ragman|BUY|extractionmod:7_62x39_fmj",
+    "skier|BUY|extractionmod:bearcapblk",
+    "jaeger|SELL|extractionmod:iskra_ration",
+    "therapist|SELL|extractionmod:mre",
+    "peacekeeper|BUY|extractionmod:mp133",
+    "jaeger|SELL|extractionmod:9x19_pst_gzh",
+    "therapist|BUY|extractionmod:slickers_bar",
+    "skier|BUY|extractionmod:forty_two_signature_blend_english_tea",
+    "therapist|BUY|extractionmod:akmmag30",
+    "mechanic|BUY|extractionmod:metal_spare_parts",
+    "therapist|SELL|extractionmod:salewa",
+    "prapor|BUY|extractionmod:7_62x39_us",
+    "therapist|SELL|extractionmod:water_bottle",
+    "ragman|BUY|extractionmod:m9a3",
+    "jaeger|BUY|extractionmod:slickers_bar",
+    "peacekeeper|SELL|extractionmod:9x19_pst_gzh",
+    "prapor|SELL|extractionmod:5_45x39_bs",
+    "mechanic|BUY|extractionmod:tp200_tnt_brick",
+    "prapor|BUY|extractionmod:splint",
+    "jaeger|BUY|extractionmod:lucky_scav_junk_box",
+    "jaeger|SELL|extractionmod:water_bottle",
+    "mechanic|BUY|extractionmod:ssd_drive",
+    "ragman|BUY|extractionmod:untar_helmet",
+    "prapor|SELL|extractionmod:akmmag30",
+    "jaeger|BUY|extractionmod:tourniquet",
+    "peacekeeper|BUY|extractionmod:5_56x45_shelldrop",
+    "ragman|BUY|extractionmod:akmmag30",
+    "prapor|BUY|extractionmod:scavbackpack",
+    "skier|BUY|extractionmod:ghost_balaclava",
+    "prapor|SELL|extractionmod:mosin",
+    "skier|SELL|extractionmod:7_62x39_fmj",
+    "skier|SELL|extractionmod:mfun",
+    "peacekeeper|SELL|extractionmod:thunderbolt",
+    "prapor|BUY|extractionmod:apollo_soyuz_cigarettes",
+    "jaeger|BUY|extractionmod:7_62x39_fmj",
+    "jaeger|SELL|extractionmod:tourniquet",
+    "mechanic|SELL|extractionmod:bundle_of_wires",
+    "therapist|BUY|extractionmod:majaica_coffee_beans",
+    "ragman|SELL|extractionmod:sugar",
+    "peacekeeper|BUY|extractionmod:7_62x39_fmj",
+    "skier|BUY|extractionmod:energy_saving_lamp",
+    "ragman|SELL|extractionmod:useccapcoyote",
+    "skier|BUY|extractionmod:light_bulb",
+    "therapist|SELL|extractionmod:analgin",
+    "skier|BUY|extractionmod:arseniy_buckwheat",
+    "prapor|SELL|extractionmod:akm",
+    "prapor|BUY|extractionmod:car_first_aid_kit",
+    "mechanic|BUY|extractionmod:energy_saving_lamp",
+    "skier|SELL|extractionmod:wd40",
+    "peacekeeper|SELL|extractionmod:mfun",
+    "therapist|BUY|extractionmod:arseniy_buckwheat",
+    "therapist|SELL|extractionmod:sugar",
+    "peacekeeper|BUY|extractionmod:7_62x39_pp",
+    "therapist|BUY|extractionmod:fleece_fabric",
+    "peacekeeper|SELL|extractionmod:7_62x54r_lps",
+    "therapist|BUY|extractionmod:gas_mask_air_filter",
+    "mechanic|BUY|extractionmod:military_corrugated_tube",
+    "peacekeeper|BUY|extractionmod:7_62x39_ps",
+    "skier|BUY|extractionmod:7_62x39_us",
+    "therapist|SELL|extractionmod:splint",
+    "skier|BUY|extractionmod:pliers_elite",
+    "ragman|BUY|extractionmod:sugar",
+    "prapor|BUY|extractionmod:mosin",
+    "jaeger|SELL|extractionmod:7_62x39_hp",
+    "jaeger|BUY|extractionmod:tp200_tnt_brick",
+    "prapor|BUY|extractionmod:7_62x39_fmj",
+    "peacekeeper|BUY|extractionmod:ssd_drive",
+    "jaeger|BUY|extractionmod:wd40",
+    "skier|BUY|extractionmod:5_56x45_m855",
+    "jaeger|SELL|extractionmod:m9a3mag17",
+    "ragman|BUY|extractionmod:commando",
+    "peacekeeper|SELL|extractionmod:12x70_lead_slug",
+    "mechanic|BUY|extractionmod:mp133",
+    "jaeger|SELL|extractionmod:goldenstar_balm",
+    "skier|SELL|extractionmod:nixxor_lens",
+    "jaeger|SELL|extractionmod:akmmag30",
+    "therapist|SELL|extractionmod:advanced_current_converter",
+    "prapor|SELL|extractionmod:7_62x39_fmj",
+    "ragman|SELL|extractionmod:kolpak_1s_riot_helmet",
+    "therapist|SELL|extractionmod:calok_b",
+    "peacekeeper|BUY|extractionmod:nixxor_lens",
+    "jaeger|BUY|extractionmod:7_62x39_t45m",
+    "jaeger|SELL|extractionmod:cms",
+    "peacekeeper|SELL|extractionmod:akmmag30",
+    "mechanic|SELL|extractionmod:electric_motor",
+    "prapor|BUY|extractionmod:aramid_fiber_fabric",
+    "jaeger|SELL|extractionmod:aseptic_bandage",
+    "prapor|BUY|extractionmod:7_62x39_pp",
+    "therapist|SELL|extractionmod:lucky_scav_junk_box",
+    "prapor|BUY|extractionmod:7_62x39_ps",
+    "mechanic|BUY|extractionmod:nixxor_lens",
+    "mechanic|SELL|extractionmod:akmmag30",
+    "mechanic|BUY|extractionmod:7_62x39_bp",
+    "therapist|BUY|extractionmod:7_62x39_t45m",
+    "skier|BUY|extractionmod:mp133",
+    "peacekeeper|BUY|extractionmod:akmmag30",
+    "mechanic|BUY|extractionmod:5_56x45_shelldrop",
+    "mechanic|BUY|extractionmod:spark_plug",
+    "therapist|BUY|extractionmod:hemostat",
+    "prapor|BUY|extractionmod:fp100_filter_absorber",
+    "mechanic|BUY|extractionmod:ibuprofen",
+    "ragman|BUY|extractionmod:bearcapblk",
+    "prapor|SELL|extractionmod:12x70_lead_slug",
+    "prapor|BUY|extractionmod:9x19_pst_gzh",
+    "ragman|BUY|extractionmod:pillbox",
+    "skier|BUY|extractionmod:5_56x45_shelldrop",
+    "peacekeeper|SELL|extractionmod:5_56x45_m855",
+    "ragman|SELL|extractionmod:secure_container_alpha",
+    "peacekeeper|SELL|extractionmod:m9a3",
+    "prapor|SELL|extractionmod:9x19_m882",
+    "therapist|SELL|extractionmod:aluminum_splint",
+    "mechanic|BUY|extractionmod:military_power_filter",
+    "ragman|BUY|extractionmod:7_62x39_t45m",
+    "skier|BUY|extractionmod:m9a3",
+    "skier|BUY|extractionmod:bulbex_cable_cutter",
+    "jaeger|BUY|extractionmod:ibuprofen",
+    "therapist|BUY|extractionmod:canned_pacific_saury",
+    "therapist|BUY|extractionmod:7_62x39_us",
+    "peacekeeper|SELL|extractionmod:m9a3mag17",
+    "prapor|BUY|extractionmod:bundle_of_wires",
+    "peacekeeper|BUY|extractionmod:7_62x39_us",
+    "skier|BUY|extractionmod:akmmag30",
+    "therapist|BUY|extractionmod:apollo_soyuz_cigarettes",
+    "jaeger|SELL|extractionmod:ibuprofen",
+    "therapist|BUY|extractionmod:pile_of_meds",
+    "prapor|BUY|extractionmod:ssd_drive",
+    "therapist|SELL|extractionmod:ai2",
+    "skier|SELL|extractionmod:secure_container_alpha",
+    "skier|SELL|extractionmod:electric_motor",
+    "peacekeeper|SELL|extractionmod:7_62x39_t45m",
+    "jaeger|SELL|extractionmod:9x19_m882",
+    "skier|BUY|extractionmod:working_lcd",
+    "jaeger|SELL|extractionmod:car_first_aid_kit",
+    "therapist|BUY|extractionmod:forty_two_signature_blend_english_tea",
+    "skier|BUY|extractionmod:fleece_fabric",
+    "prapor|BUY|extractionmod:ibuprofen",
+    "skier|SELL|extractionmod:sugar",
+    "skier|SELL|extractionmod:7_62x39_sp",
+    "skier|SELL|extractionmod:phase_control_relay",
+    "jaeger|BUY|extractionmod:canned_pacific_saury",
+    "jaeger|BUY|extractionmod:7_62x39_pp",
+    "jaeger|BUY|extractionmod:7_62x39_ps",
+    "jaeger|BUY|extractionmod:mre",
+    "mechanic|SELL|extractionmod:nixxor_lens",
+    "prapor|BUY|extractionmod:spark_plug",
+    "mechanic|SELL|extractionmod:measuring_tape",
+    "prapor|BUY|extractionmod:m9a3",
+    "therapist|BUY|extractionmod:fp100_filter_absorber",
+    "prapor|BUY|extractionmod:7_62x39_mai_ap",
+    "therapist|SELL|extractionmod:hemostat",
+    "prapor|SELL|extractionmod:aks_74u",
+    "peacekeeper|BUY|extractionmod:7_62x39_t45m",
+    "mechanic|SELL|extractionmod:ssd_drive",
+    "therapist|BUY|extractionmod:aramid_fiber_fabric",
+    "jaeger|SELL|extractionmod:7_62x39_ps",
+    "mechanic|SELL|extractionmod:sugar",
+    "jaeger|SELL|extractionmod:7_62x39_pp",
+    "mechanic|BUY|extractionmod:7_62x39_mai_ap",
+    "mechanic|SELL|extractionmod:7_62x39_us",
+    "skier|SELL|extractionmod:7_62x39_us",
+    "jaeger|BUY|extractionmod:calok_b",
+    "ragman|SELL|extractionmod:5_45x39_bs",
+    "jaeger|SELL|extractionmod:mp133",
+    "prapor|SELL|extractionmod:ak74",
+    "prapor|BUY|extractionmod:metal_spare_parts",
+    "mechanic|BUY|extractionmod:9x19_pst_gzh",
+    "jaeger|BUY|extractionmod:salewa",
+    "prapor|SELL|extractionmod:mp5mag30",
+    "peacekeeper|BUY|extractionmod:mosin",
+    "mechanic|BUY|extractionmod:bundle_of_wires",
+    "mechanic|SELL|extractionmod:military_power_filter",
+    "mechanic|SELL|extractionmod:ibuprofen",
+    "skier|BUY|extractionmod:7_62x39_bp",
+    "jaeger|BUY|extractionmod:sugar",
+    "prapor|BUY|extractionmod:7_62x39_hp",
+    "peacekeeper|SELL|extractionmod:untar_helmet",
+    "mechanic|SELL|extractionmod:gas_mask_air_filter",
+    "therapist|BUY|extractionmod:analgin",
+    "mechanic|BUY|extractionmod:mp5",
+    "jaeger|BUY|extractionmod:mp133",
+    "therapist|BUY|extractionmod:9x19_pst_gzh",
+    "mechanic|SELL|extractionmod:9x19_pst_gzh",
+    "skier|BUY|extractionmod:spark_plug",
+    "prapor|SELL|extractionmod:7_62x39_us",
+    "skier|SELL|extractionmod:7_62x39_t45m",
+    "therapist|BUY|extractionmod:ai2",
+    "ragman|SELL|extractionmod:bntimodule3m",
+    "prapor|BUY|extractionmod:6b23_1",
+    "mechanic|SELL|extractionmod:phase_control_relay",
+    "prapor|BUY|extractionmod:tourniquet",
+    "ragman|BUY|extractionmod:hgrid",
+    "jaeger|SELL|extractionmod:tp200_tnt_brick",
+    "prapor|SELL|extractionmod:5_45x39_t",
+    "peacekeeper|SELL|extractionmod:9x19_m882",
+    "prapor|BUY|extractionmod:5_56x45_m855",
+    "therapist|SELL|extractionmod:cms",
+    "mechanic|BUY|extractionmod:7_62x39_fmj",
+    "therapist|BUY|extractionmod:calok_b",
+    "therapist|BUY|extractionmod:toothpaste",
+    "therapist|BUY|extractionmod:canned_humpback_salmon",
+    "therapist|BUY|extractionmod:iskra_ration",
+    "ragman|BUY|extractionmod:fleece_fabric",
+    "skier|SELL|extractionmod:7_62x39_pp",
+    "jaeger|BUY|extractionmod:scavbackpack",
+    "prapor|BUY|extractionmod:sugar",
+    "skier|SELL|extractionmod:7_62x39_ps",
+    "jaeger|BUY|extractionmod:pliers_elite",
+    "skier|BUY|extractionmod:majaica_coffee_beans",
+    "jaeger|SELL|extractionmod:7_62x39_fmj",
+    "jaeger|BUY|extractionmod:9x19_pst_gzh",
+    "jaeger|BUY|extractionmod:iskra_ration",
+    "jaeger|BUY|extractionmod:akmmag30",
+    "skier|BUY|extractionmod:fp100_filter_absorber",
+    "therapist|BUY|extractionmod:cms",
+    "jaeger|SELL|extractionmod:7_62x39_us",
+    "skier|BUY|extractionmod:aramid_fiber_fabric",
+    "ragman|SELL|extractionmod:ibuprofen",
+    "peacekeeper|BUY|extractionmod:9x19_m882"
+  ],
+  "prices": []
+}

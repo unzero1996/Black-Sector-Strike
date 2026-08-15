@@ -1,0 +1,461 @@
+{
+  "offers": [
+    {
+      "id": "barter_1785941479191",
+      "traderId": "prapor",
+      "inputs": [
+        {
+          "itemId": "extractionmod:pliers_elite",
+          "count": 1
+        }
+      ],
+      "outputItemId": "extractionmod:akmmag30",
+      "outputCount": 1,
+      "minLevel": 1
+    },
+    {
+      "id": "barter_1785993699052",
+      "traderId": "prapor",
+      "inputs": [
+        {
+          "itemId": "extractionmod:aquamari",
+          "count": 2
+        },
+        {
+          "itemId": "extractionmod:gas_mask_air_filter",
+          "count": 1
+        }
+      ],
+      "outputItemId": "extractionmod:6kh5_bayonet",
+      "outputCount": 1,
+      "minLevel": 2
+    },
+    {
+      "id": "barter_1785997009829",
+      "traderId": "therapist",
+      "inputs": [
+        {
+          "itemId": "extractionmod:emergency_water_ration",
+          "count": 1
+        }
+      ],
+      "outputItemId": "extractionmod:salewa",
+      "outputCount": 1,
+      "minLevel": 1
+    },
+    {
+      "id": "barter_1786005052813",
+      "traderId": "therapist",
+      "inputs": [
+        {
+          "itemId": "extractionmod:canned_humpback_salmon",
+          "count": 1
+        }
+      ],
+      "outputItemId": "extractionmod:car_first_aid_kit",
+      "outputCount": 1,
+      "minLevel": 1
+    },
+    {
+      "id": "barter_1786005170867",
+      "traderId": "therapist",
+      "inputs": [
+        {
+          "itemId": "extractionmod:classic_matches",
+          "count": 1
+        }
+      ],
+      "outputItemId": "extractionmod:analgin",
+      "outputCount": 1,
+      "minLevel": 1
+    },
+    {
+      "id": "barter_1786005246772",
+      "traderId": "therapist",
+      "inputs": [
+        {
+          "itemId": "extractionmod:pack_of_screws",
+          "count": 2
+        }
+      ],
+      "outputItemId": "extractionmod:calok_b",
+      "outputCount": 1,
+      "minLevel": 1
+    },
+    {
+      "id": "barter_1786008397041",
+      "traderId": "therapist",
+      "inputs": [
+        {
+          "itemId": "extractionmod:crickent_lighter",
+          "count": 3
+        },
+        {
+          "itemId": "extractionmod:classic_matches",
+          "count": 2
+        }
+      ],
+      "outputItemId": "extractionmod:pile_of_meds",
+      "outputCount": 1,
+      "minLevel": 1
+    },
+    {
+      "id": "barter_1786008483101",
+      "traderId": "therapist",
+      "inputs": [
+        {
+          "itemId": "extractionmod:apollo_soyuz_cigarettes",
+          "count": 5
+        }
+      ],
+      "outputItemId": "extractionmod:ololo_multivitamins",
+      "outputCount": 1,
+      "minLevel": 1
+    },
+    {
+      "id": "barter_1786008517838",
+      "traderId": "therapist",
+      "inputs": [
+        {
+          "itemId": "extractionmod:pile_of_meds",
+          "count": 1
+        }
+      ],
+      "outputItemId": "extractionmod:army_crackers",
+      "outputCount": 1,
+      "minLevel": 1
+    },
+    {
+      "id": "barter_1786008541321",
+      "traderId": "therapist",
+      "inputs": [
+        {
+          "itemId": "extractionmod:vita_juice",
+          "count": 1
+        }
+      ],
+      "outputItemId": "extractionmod:slickers_bar",
+      "outputCount": 1,
+      "minLevel": 1
+    },
+    {
+      "id": "barter_1786008569424",
+      "traderId": "therapist",
+      "inputs": [
+        {
+          "itemId": "extractionmod:classic_matches",
+          "count": 1
+        },
+        {
+          "itemId": "extractionmod:crickent_lighter",
+          "count": 1
+        }
+      ],
+      "outputItemId": "extractionmod:canned_pacific_saury",
+      "outputCount": 1,
+      "minLevel": 1
+    },
+    {
+      "id": "barter_1786008594675",
+      "traderId": "therapist",
+      "inputs": [
+        {
+          "itemId": "extractionmod:toothpaste",
+          "count": 2
+        }
+      ],
+      "outputItemId": "extractionmod:canned_humpback_salmon",
+      "outputCount": 1,
+      "minLevel": 1
+    },
+    {
+      "id": "barter_1786008617238",
+      "traderId": "therapist",
+      "inputs": [
+        {
+          "itemId": "extractionmod:disposable_syringe",
+          "count": 1
+        }
+      ],
+      "outputItemId": "extractionmod:iskra_ration",
+      "outputCount": 1,
+      "minLevel": 1
+    },
+    {
+      "id": "barter_1786008642185",
+      "traderId": "therapist",
+      "inputs": [
+        {
+          "itemId": "extractionmod:disposable_syringe",
+          "count": 2
+        }
+      ],
+      "outputItemId": "extractionmod:aluminum_splint",
+      "outputCount": 1,
+      "minLevel": 2
+    },
+    {
+      "id": "barter_1786008666507",
+      "traderId": "therapist",
+      "inputs": [
+        {
+          "itemId": "extractionmod:ice_green_tea",
+          "count": 4
+        }
+      ],
+      "outputItemId": "extractionmod:forty_two_signature_blend_english_tea",
+      "outputCount": 1,
+      "minLevel": 2
+    },
+    {
+      "id": "barter_1786008695421",
+      "traderId": "therapist",
+      "inputs": [
+        {
+          "itemId": "extractionmod:emelya_croutons",
+          "count": 1
+        }
+      ],
+      "outputItemId": "extractionmod:rye_croutons",
+      "outputCount": 1,
+      "minLevel": 2
+    },
+    {
+      "id": "barter_1786008764924",
+      "traderId": "therapist",
+      "inputs": [
+        {
+          "itemId": "extractionmod:medical_bloodset",
+          "count": 1
+        },
+        {
+          "itemId": "extractionmod:pile_of_meds",
+          "count": 3
+        }
+      ],
+      "outputItemId": "extractionmod:ibuprofen",
+      "outputCount": 1,
+      "minLevel": 4
+    },
+    {
+      "id": "barter_1786008794115",
+      "traderId": "therapist",
+      "inputs": [
+        {
+          "itemId": "extractionmod:pile_of_meds",
+          "count": 6
+        }
+      ],
+      "outputItemId": "extractionmod:sugar",
+      "outputCount": 1,
+      "minLevel": 4
+    },
+    {
+      "id": "barter_1786008893562",
+      "traderId": "peacekeeper",
+      "inputs": [
+        {
+          "itemId": "extractionmod:diary",
+          "count": 4
+        },
+        {
+          "itemId": "extractionmod:slim_diary",
+          "count": 4
+        },
+        {
+          "itemId": "extractionmod:topographic_survey_maps",
+          "count": 1
+        }
+      ],
+      "outputItemId": "extractionmod:intelligence_folder",
+      "outputCount": 1,
+      "minLevel": 3
+    },
+    {
+      "id": "barter_1786009057652",
+      "traderId": "ragman",
+      "inputs": [
+        {
+          "itemId": "extractionmod:awl",
+          "count": 1
+        }
+      ],
+      "outputItemId": "extractionmod:soap",
+      "outputCount": 1,
+      "minLevel": 1
+    },
+    {
+      "id": "barter_1786009080258",
+      "traderId": "ragman",
+      "inputs": [
+        {
+          "itemId": "extractionmod:max_energy",
+          "count": 2
+        }
+      ],
+      "outputItemId": "extractionmod:mfun",
+      "outputCount": 1,
+      "minLevel": 1
+    },
+    {
+      "id": "barter_1786009124497",
+      "traderId": "ragman",
+      "inputs": [
+        {
+          "itemId": "extractionmod:afglass",
+          "count": 2
+        }
+      ],
+      "outputItemId": "extractionmod:untar_helmet",
+      "outputCount": 1,
+      "minLevel": 2
+    },
+    {
+      "id": "barter_1786009146753",
+      "traderId": "ragman",
+      "inputs": [
+        {
+          "itemId": "extractionmod:classic_matches",
+          "count": 2
+        }
+      ],
+      "outputItemId": "extractionmod:comtac2",
+      "outputCount": 1,
+      "minLevel": 2
+    },
+    {
+      "id": "barter_1786009175284",
+      "traderId": "ragman",
+      "inputs": [
+        {
+          "itemId": "extractionmod:horse_figurine",
+          "count": 1
+        }
+      ],
+      "outputItemId": "extractionmod:pillbox",
+      "outputCount": 1,
+      "minLevel": 2
+    },
+    {
+      "id": "barter_1786009219186",
+      "traderId": "ragman",
+      "inputs": [
+        {
+          "itemId": "extractionmod:vpx_flash_storage_module",
+          "count": 1
+        }
+      ],
+      "outputItemId": "extractionmod:iotv_gen4",
+      "outputCount": 1,
+      "minLevel": 3
+    },
+    {
+      "id": "barter_1786009266789",
+      "traderId": "jaeger",
+      "inputs": [
+        {
+          "itemId": "extractionmod:arseniy_buckwheat",
+          "count": 1
+        }
+      ],
+      "outputItemId": "extractionmod:mp133",
+      "outputCount": 1,
+      "minLevel": 1
+    },
+    {
+      "id": "barter_1786009311676",
+      "traderId": "jaeger",
+      "inputs": [
+        {
+          "itemId": "extractionmod:vita_juice",
+          "count": 2
+        }
+      ],
+      "outputItemId": "extractionmod:ololo_multivitamins",
+      "outputCount": 1,
+      "minLevel": 2
+    },
+    {
+      "id": "barter_1786009328905",
+      "traderId": "jaeger",
+      "inputs": [
+        {
+          "itemId": "extractionmod:emelya_croutons",
+          "count": 5
+        }
+      ],
+      "outputItemId": "extractionmod:sugar",
+      "outputCount": 1,
+      "minLevel": 2
+    },
+    {
+      "id": "barter_1786124947579",
+      "traderId": "prapor",
+      "inputs": [
+        {
+          "itemId": "extractionmod:energy_saving_lamp",
+          "count": 1
+        }
+      ],
+      "outputItemId": "extractionmod:f1_grenade",
+      "outputCount": 1,
+      "minLevel": 2
+    },
+    {
+      "id": "barter_1786386079934",
+      "traderId": "ragman",
+      "inputs": [
+        {
+          "itemId": "extractionmod:antique_teapot",
+          "count": 1
+        }
+      ],
+      "outputItemId": "extractionmod:poyas_rig",
+      "outputCount": 1,
+      "minLevel": 3
+    },
+    {
+      "id": "barter_1786418647140",
+      "traderId": "peacekeeper",
+      "inputs": [
+        {
+          "itemId": "extractionmod:damaged_hard_drive",
+          "count": 1
+        }
+      ],
+      "outputItemId": "extractionmod:mbss_ucp",
+      "outputCount": 1,
+      "minLevel": 1
+    },
+    {
+      "id": "barter_1786434774362",
+      "traderId": "prapor",
+      "inputs": [
+        {
+          "itemId": "extractionmod:cyclon_battery",
+          "count": 1
+        },
+        {
+          "itemId": "extractionmod:military_gyrotachometer",
+          "count": 2
+        }
+      ],
+      "outputItemId": "extractionmod:6sh118",
+      "outputCount": 1,
+      "minLevel": 4
+    },
+    {
+      "id": "barter_1786716349177",
+      "traderId": "prapor",
+      "inputs": [
+        {
+          "itemId": "extractionmod:canned_beef_stew_small",
+          "count": 3
+        }
+      ],
+      "outputItemId": "extractionmod:akm",
+      "outputCount": 1,
+      "minLevel": 1
+    }
+  ]
+}

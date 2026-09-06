@@ -1,6 +1,6 @@
 {
     "name":  "Black Sector: Strike Extraction",
-    "version":  "0.0.32-alpha",
+    "version":  "0.0.33-alpha",
     "minecraftVersion":  "1.21.1",
     "neoForgeVersion":  "21.1.233",
     "javaVersion":  21,
@@ -10,21 +10,21 @@
     "files":  [
                   {
                       "path":  "mods/Black Sector_v0.0.3_alpha.jar",
-                      "size":  51765956,
-                      "sha256":  "dbafcbb2ea40ca49b7ec3a7338e4dd2153745d29356c8ab7254403d3ad6e0083",
-                      "url":  "https://raw.githubusercontent.com/unzero1996/Black-Sector-Strike/9c6eee7/mods/Black%20Sector_v0.0.3_alpha.jar"
+                      "size":  52051779,
+                      "sha256":  "3b31f5f13c419b520960b5cb8d46aaabeb5c9d15703bc6a38a5533d0e5c09695",
+                      "url":  "https://raw.githubusercontent.com/unzero1996/Black-Sector-Strike/5be7d0f/mods/Black%20Sector_v0.0.3_alpha.jar"
                   },
                   {
                       "path":  "mods/geckolib-neoforge-1.21.1-4.9.2.jar",
                       "size":  630584,
                       "sha256":  "5e548466af9ab6aca7a91a7c7d4dc0dc8bc385e22958aed5da0e7bebd0fa3fba",
-                      "url":  "https://raw.githubusercontent.com/unzero1996/Black-Sector-Strike/9c6eee7/mods/geckolib-neoforge-1.21.1-4.9.2.jar"
+                      "url":  "https://raw.githubusercontent.com/unzero1996/Black-Sector-Strike/5be7d0f/mods/geckolib-neoforge-1.21.1-4.9.2.jar"
                   },
                   {
                       "path":  "mods/sodium-neoforge-0.8.12+mc1.21.1.jar",
                       "size":  1291418,
                       "sha256":  "2f9e69ec9521e657100ef83b3bdf3f18dba6078d57f9853722d7643a577b2266",
-                      "url":  "https://raw.githubusercontent.com/unzero1996/Black-Sector-Strike/9c6eee7/mods/sodium-neoforge-0.8.12%2Bmc1.21.1.jar"
+                      "url":  "https://raw.githubusercontent.com/unzero1996/Black-Sector-Strike/5be7d0f/mods/sodium-neoforge-0.8.12%2Bmc1.21.1.jar"
                   }
               ]
 }

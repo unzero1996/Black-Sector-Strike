@@ -23,12 +23,6 @@
       "size": 1291418,
       "sha256": "2f9e69ec9521e657100ef83b3bdf3f18dba6078d57f9853722d7643a577b2266",
       "url": "https://raw.githubusercontent.com/unzero1996/Black-Sector-Strike/59f4b5c/mods/sodium-neoforge-0.8.12%2Bmc1.21.1.jar"
-    },
-    {
-      "path": "mods/DistantHorizons-3.3.1-1.21.1-fabric-neoforge.jar",
-      "size": 28221440,
-      "sha256": "b12931cc0c680914e461b478f6a361285870a489bedd3985dee52cd3ce3590c0",
-      "url": "https://raw.githubusercontent.com/unzero1996/Black-Sector-Strike/59f4b5c/mods/DistantHorizons-3.3.1-1.21.1-fabric-neoforge.jar"
     }
   ]
 }

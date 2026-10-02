@@ -1,6 +1,6 @@
 {
   "name": "Black Sector: Strike Extraction",
-  "version": "0.0.352-alpha",
+  "version": "0.0.3521-alpha",
   "minecraftVersion": "1.21.1",
   "neoForgeVersion": "21.1.233",
   "javaVersion": 21,
@@ -10,15 +10,15 @@
   "files": [
     {
       "path": "mods/Black Sector_v0.0.3_alpha.jar",
-      "size": 90388377,
-      "sha256": "2b677e8dfe9f37af39abaef1f25825927ec62e3aa8954b0b449fd39d5388f6a2",
-      "url": "https://raw.githubusercontent.com/unzero1996/Black-Sector-Strike/610a3ed/mods/Black%20Sector_v0.0.3_alpha.jar"
+      "size": 90389954,
+      "sha256": "82fe703b11623ab72c29ee2db745be7f8870b5312374acb6fab4bf171c056a6f",
+      "url": "https://raw.githubusercontent.com/unzero1996/Black-Sector-Strike/8adb079/mods/Black%20Sector_v0.0.3_alpha.jar"
     },
     {
       "path": "mods/geckolib-neoforge-1.21.1-4.9.2.jar",
       "size": 630584,
       "sha256": "5e548466af9ab6aca7a91a7c7d4dc0dc8bc385e22958aed5da0e7bebd0fa3fba",
-      "url": "https://raw.githubusercontent.com/unzero1996/Black-Sector-Strike/610a3ed/mods/geckolib-neoforge-1.21.1-4.9.2.jar"
+      "url": "https://raw.githubusercontent.com/unzero1996/Black-Sector-Strike/8adb079/mods/geckolib-neoforge-1.21.1-4.9.2.jar"
     }
   ]
 }

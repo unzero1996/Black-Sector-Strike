@@ -10,15 +10,15 @@
   "files": [
     {
       "path": "mods/Black Sector_v0.0.3_alpha.jar",
-      "size": 92924522,
-      "sha256": "92148f420a60acb4e06e520eeb5f70ba931e253d30079dae10e0950f5e71a65d",
-      "url": "https://raw.githubusercontent.com/unzero1996/Black-Sector-Strike/f9fe9a6/mods/Black%20Sector_v0.0.3_alpha.jar"
+      "size": 92992374,
+      "sha256": "0d7b9646457e950a0ad7e572bfd0848c357b6f3bb40e4bb463328c3c29efba7a",
+      "url": "https://raw.githubusercontent.com/unzero1996/Black-Sector-Strike/aa25504/mods/Black%20Sector_v0.0.3_alpha.jar"
     },
     {
       "path": "mods/geckolib-neoforge-1.21.1-4.9.2.jar",
       "size": 630584,
       "sha256": "5e548466af9ab6aca7a91a7c7d4dc0dc8bc385e22958aed5da0e7bebd0fa3fba",
-      "url": "https://raw.githubusercontent.com/unzero1996/Black-Sector-Strike/f9fe9a6/mods/geckolib-neoforge-1.21.1-4.9.2.jar"
+      "url": "https://raw.githubusercontent.com/unzero1996/Black-Sector-Strike/aa25504/mods/geckolib-neoforge-1.21.1-4.9.2.jar"
     }
   ]
 }
